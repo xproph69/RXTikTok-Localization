@@ -1,0 +1,132 @@
+/* Localizable.strings */
+
+// Main Titles
+"BHTikTok, Hi" = "BHTikTok, Прив";
+"BHTikTok++ settings" = "Настройки BHTikTok++";
+
+// Common Actions
+"Yes" = "Да";
+"No" = "Нет";
+"ON" = "ВКЛ";
+"OFF" = "ВЫКЛ";
+"Downloading" = "Скачиваем";
+"Backgrounding ✌️" = "Сворачиваем ✌️";
+"Are you sure?" = "Вы уверены?";
+
+// Download Options
+"Download Video" = "Скачать видео";
+"Download HD Video" = "Скачать видео (HD)";
+"Download Music" = "Скачать музыку";
+"Download Photo" = "Скачать картинку";
+"Download All Photos" = "Скачать все картинки";
+
+// Copy Options
+"Copy Music link" = "Копировать ссылку на музыку";
+"Copy Video link" = "Копировать ссылку на видео";
+"Copy Decription" = "Копировать описание";
+"Copy bio" = "Копировать био профиля";
+
+// Error Messages
+"Could Not Copy Music" = "Не удалось скопировать";
+"The video dosen't have music to download" = "В видео нет музыки, которую можно скачать";
+
+// Menu Labels
+"Downloads Menu" = "Меню скачивания";
+"Copy Menu" = "Меню копирования";
+"Download Photos Menu" = "Меню скачивания картинок";
+
+// Section Headers
+"Feed" = "Лента";
+"Profile" = "Профиль";
+"Confirm" = "Подтверждения";
+"Other" = "Другое";
+"Region" = "Регион";
+"Live Button Function" = "Действие кнопки LIVE";
+"Playback Speed" = "Скорость воспроизведения";
+"Developer" = "Разработчик";
+
+// Feed Features
+"Hide Ads" = "Удалить рекламу из ленты";
+"Download Button" = "Кнопка загрузки";
+"Share Sheet" = "Панель поделиться";
+"Remove Watermark" = "Удалить водяной знак";
+"Show/Hide UI Button" = "Показать/скрыть кнопку интерфейса";
+"Stop Playback" = "Повтор воспроизведения";
+"Auto Play Next Video" = "Автоматическая прокрутка";
+"Show Progress Bar" = "Длительность воспроизведения";
+"Transparent Comments" = "Прозрачные комментарии";
+"Show Usernames" = "Показать тег вместо ника";
+"Disable Sensitive Content" = "Разблокировать неприемлемый контент";
+"Disable Warnings" = "Удалить предупреждения";
+"Disable Live Streaming" = "Удалить прямые трансляции";
+"Skip Recommendations" = "Удалить рекомендации";
+"Upload Region" = "Показать регион выгрузки";
+"Hide Top Feed items" = "Скрыть верхние элементы ленты";
+"Anonymous Seen" = "Включить нечиталку";
+
+// Profile Features
+"Profile Save" = "Сохранить профиль";
+"Profile Copy" = "Копировать профиля";
+"Video Like Count" = "Количество просмотров видео";
+"Video Upload Date" = "Дата выгрузки видео";
+
+// Confirm Features
+"Like Confirmation" = "Подтверждение лайка видео";
+"Like Comment Confirmation" = "Подтверждение лайка комментария";
+"Dislike Comment Confirmation" = "Подтверждение дизлайка комментария";
+"Follow Confirmation" = "Подтверждение подписки";
+
+// Other Features
+"Auto Clear History" = "Автоматическая очистка истории поиска";
+"Enable Fake Changes" = "Включить поддельные изменения";
+"Follower" = "Подписчики";
+"Following" = "Подписки";
+"Fake Verified" = "Фейковая галочка";
+"Extended Bio" = "Расширить количество символов био";
+"Extended Comments" = "Расширить количество символов в комментариях";
+"Upload HD" = "Включить выгрузку в HD";
+"App Lock" = "Включить блокировку приложения";
+"Enable Flex" = "Включить Flex";
+"Enable Oled Keyboard" = "Включить OLED клавиатуру";
+
+// Feature Descriptions
+"FEATURE_HIDE_ADS" = "Скрывает рекламу из ленты";
+"FEATURE_DOWNLOAD_BUTTON" = "Включает кнопку скачивания для постов и историй";
+"FEATURE_SHARE_SHEET" = "Открывает панель поделиться после скачивания медиа";
+"FEATURE_REMOVE_WATERMARK" = "Удаляет водяной знак (анимированный логотип TikTok и имя пользователя) на скачиваемых медиа";
+"FEATURE_UI_BUTTON" = "Показывает или скрывает кнопку интерфейса";
+"FEATURE_STOP_PLAYBACK" = "Останавливает воспроизведение видео, когда оно закончилось";
+"FEATURE_AUTO_PLAY" = "Включает автоматическую прокрутку видео";
+"FEATURE_PROGRESS_BAR" = "Показывает полосу длительности под каждым видео";
+"FEATURE_TRANSPARENT_COMMENTS" = "Делает раздел комментариев прозрачным";
+"FEATURE_SHOW_USERNAMES" = "Заменяет ники на теги";
+"FEATURE_DISABLE_SENSITIVE" = "Скрывает предупреждение о неприемлемом контенте";
+"FEATURE_DISABLE_WARNINGS" = "Скрывает предупреждения от TikTok";
+"FEATURE_DISABLE_LIVE" = "Скрывает прямые трансляции в ленте";
+"FEATURE_SKIP_RECOMMENDED" = "Удаляет рекомендации от друзей и т.д";
+"FEATURE_UPLOAD_REGION" = "Показывает флаг региона выгрузки возле ника";
+"FEATURE_HIDE_TOP_ITEMS" = "Скрывает кнопку поиска, LIVE и другие (Рекомендации, Подписки, Магазин и т.д...)";
+"FEATURE_ANONYMOUS_SEEN" = "Включает нечиталку";
+"FEATURE_PROFILE_SAVE" = "Сохраняет сведения о профиле в буфер обмена";
+"FEATURE_PROFILE_COPY" = "Копирует информации о профиле";
+"FEATURE_LIKE_COUNT" = "Показывает количество лайков на сообщениях";
+"FEATURE_UPLOAD_DATE" = "Показывает дату выгрузки";
+"FEATURE_CONFIRM_LIKE" = "Показывает подтверждение чтобы лайкнуть видео";
+"FEATURE_CONFIRM_COMMENT_LIKE" = "Показывает подтверждение чтобы поставить лайк комментарию";
+"FEATURE_CONFIRM_COMMENT_DISLIKE" = "Показывает подтверждение чтобы поставить дизлайк комментарию";
+"FEATURE_CONFIRM_FOLLOW" = "Показывает подтверждение чтобы подписаться на пользователя";
+"FEATURE_AUTO_CLEAR" = "Автоматически очищает историю поиска каждые 60 секунд";
+"FEATURE_FAKE_CHANGES" = "Включает подмену данных профиля";
+"FEATURE_FOLLOWER_COUNT" = "Введите поддельное количество подписчиков";
+"FEATURE_FOLLOWING_COUNT" = "Введите поддельное количество подписок";
+"FEATURE_FAKE_VERIFIED" = "Показывает фейковую галочку";
+"FEATURE_EXTENDED_BIO" = "Расширяет количество символов в био профиля";
+"FEATURE_EXTENDED_COMMENTS" = "Расширяет количество символов в комментариях";
+"FEATURE_UPLOAD_HD" = "Включает HD выгрузку";
+"FEATURE_APP_LOCK" = "Добавляет возможность блокировать доступ к TikTok паролем";
+"FEATURE_ENABLE_FLEX" = "Только для разработчиков, НЕ ТРОГАТЬ, если не знаете, для чего";
+"FEATURE_OLED_KEYBOARD" = "Работает только с темной темой";
+
+// Developer Section
+"DEVELOPER_TELEGRAM" = "Присоединяйтесь к телеграм-каналу для получения последних обновлений";
+"DEVELOPER_SUPPORT" = "Поддержите BHTTPP и получите доступ к группе для бета-тестирования";

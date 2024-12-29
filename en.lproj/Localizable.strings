@@ -1,0 +1,132 @@
+/* Localizable.strings */
+
+// Main Titles
+"BHTikTok, Hi" = "BHTikTok, Hi";
+"BHTikTok++ settings" = "BHTikTok++ Settings";
+
+// Common Actions
+"Yes" = "Yes";
+"No" = "No";
+"ON" = "ON";
+"OFF" = "OFF";
+"Downloading" = "Downloading";
+"Backgrounding ✌️" = "Backgrounding ✌️";
+"Are you sure?" = "Are you sure?";
+
+// Download Options
+"Download Video" = "Download Video";
+"Download HD Video" = "Download HD Video";
+"Download Music" = "Download Music";
+"Download Photo" = "Download Photo";
+"Download All Photos" = "Download All Photos";
+
+// Copy Options
+"Copy Music link" = "Copy haha Link";
+"Copy Video link" = "Copy Video Link";
+"Copy Decription" = "Copy Description";
+"Copy bio" = "Copy Bio";
+
+// Error Messages
+"Could Not Copy Music" = "Could Not Copy Music";
+"The video dosen't have music to download" = "The video doesn't have music to download";
+
+// Menu Labels
+"Downloads Menu" = "Downloads Menu";
+"Copy Menu" = "Copy Menu";
+"Download Photos Menu" = "Download Photos Menu";
+
+// Section Headers
+"Feed" = "Feed";
+"Profile" = "Profile";
+"Confirm" = "Confirm";
+"Other" = "Other";
+"Region" = "Region";
+"Live Button Function" = "Live Button Function";
+"Playback Speed" = "Playback Speed";
+"Developer" = "Developer";
+
+// Feed Features
+"Hide Ads" = "Hide Ads";
+"Download Button" = "Download Button";
+"Share Sheet" = "Share Sheet";
+"Remove Watermark" = "Remove Watermark";
+"Show/Hide UI Button" = "Show/Hide UI Button";
+"Stop Playback" = "Stop Playback";
+"Auto Play Next Video" = "Auto Play Next Video";
+"Show Progress Bar" = "Show Progress Bar";
+"Transparent Comments" = "Transparent Comments";
+"Show Usernames" = "Show Usernames";
+"Disable Sensitive Content" = "Disable Sensitive Content";
+"Disable Warnings" = "Disable Warnings";
+"Disable Live Streaming" = "Disable Live Streaming";
+"Skip Recommendations" = "Skip Recommendations";
+"Upload Region" = "Upload Region";
+"Hide Top Feed items" = "Hide Top Feed Items";
+"Anonymous Seen" = "Anonymous Seen";
+
+// Profile Features
+"Profile Save" = "Profile Save";
+"Profile Copy" = "Profile Copy";
+"Video Like Count" = "Video Like Count";
+"Video Upload Date" = "Video Upload Date";
+
+// Confirm Features
+"Like Confirmation" = "Like Confirmation";
+"Like Comment Confirmation" = "Like Comment Confirmation";
+"Dislike Comment Confirmation" = "Dislike Comment Confirmation";
+"Follow Confirmation" = "Follow Confirmation";
+
+// Other Features
+"Auto Clear History" = "Auto Clear History";
+"Enable Fake Changes" = "Enable Fake Changes";
+"Follower" = "Follower";
+"Following" = "Following";
+"Fake Verified" = "Fake Verified";
+"Extended Bio" = "Extended Bio";
+"Extended Comments" = "Extended Comments";
+"Upload HD" = "Upload HD";
+"App Lock" = "App Lock";
+"Enable Flex" = "Enable Flex";
+"Enable Oled Keyboard" = "Enable Oled Keyboard";
+
+// Feature Descriptions
+"FEATURE_HIDE_ADS" = "Disable All Ads Within TikTok";
+"FEATURE_DOWNLOAD_BUTTON" = "Enable Download Button for Posts and Stories";
+"FEATURE_SHARE_SHEET" = "Open Share Sheet after Downloading Media";
+"FEATURE_REMOVE_WATERMARK" = "Remove TikTok Watermark from Media";
+"FEATURE_UI_BUTTON" = "Show or Hide UI Button";
+"FEATURE_STOP_PLAYBACK" = "Disable Auto-Scroll After Playback Finishes";
+"FEATURE_AUTO_PLAY" = "Automatically Scroll To Next Post After Finishing Playback";
+"FEATURE_PROGRESS_BAR" = "Show Progress Bar Under Video";
+"FEATURE_TRANSPARENT_COMMENTS" = "Make Comment Section Transparent";
+"FEATURE_SHOW_USERNAMES" = "Replace Nicknames with Usernames On Posts";
+"FEATURE_DISABLE_SENSITIVE" = "Hide 'Sensitive Content' Warning";
+"FEATURE_DISABLE_WARNINGS" = "Hide TikTok Warnings";
+"FEATURE_DISABLE_LIVE" = "Disable Livestreams From FYP";
+"FEATURE_SKIP_RECOMMENDED" = "Skip Recommended Videos";
+"FEATURE_UPLOAD_REGION" = "Show Upload Region Flag Besides Username";
+"FEATURE_HIDE_TOP_ITEMS" = "Hide The search and live buttons and the (FYP, Following, Shop, etc...)";
+"FEATURE_ANONYMOUS_SEEN" = "Watch Messages Anonymously (BETA Beware!)";
+"FEATURE_PROFILE_SAVE" = "Save Profile Details To Clipboard";
+"FEATURE_PROFILE_COPY" = "Copy Profile Information";
+"FEATURE_LIKE_COUNT" = "Show Like Count on Posts";
+"FEATURE_UPLOAD_DATE" = "Show Post Upload Date";
+"FEATURE_CONFIRM_LIKE" = "Confirm Liking Posts";
+"FEATURE_CONFIRM_COMMENT_LIKE" = "Confirm Liking Comments";
+"FEATURE_CONFIRM_COMMENT_DISLIKE" = "Confirm Disliking Comments";
+"FEATURE_CONFIRM_FOLLOW" = "Confirm Following a User";
+"FEATURE_AUTO_CLEAR" = "Auto-clear search history every 60s";
+"FEATURE_FAKE_CHANGES" = "Enable Profile Spoofs";
+"FEATURE_FOLLOWER_COUNT" = "Enter Spoofed Follower Count";
+"FEATURE_FOLLOWING_COUNT" = "Enter Spoofed Following Count";
+"FEATURE_FAKE_VERIFIED" = "Make your Account Appear Verified";
+"FEATURE_EXTENDED_BIO" = "Extend Profile Bio Character Count";
+"FEATURE_EXTENDED_COMMENTS" = "Extend Comment Character Count";
+"FEATURE_UPLOAD_HD" = "Always Upload Videos in HD";
+"FEATURE_APP_LOCK" = "Lock TikTok Behind A Passcode";
+"FEATURE_ENABLE_FLEX" = "Developers Only, DO NOT TOUCH if you don't know what you're doing";
+"FEATURE_OLED_KEYBOARD" = "Works Only in Dark-Mode";
+
+// Developer Section
+"DEVELOPER_TELEGRAM" = "Join the telegram channel for the latest updates";
+"DEVELOPER_SUPPORT" = "Show your Support to Keep BHTTPP Up-To-Date and get access to the beta testers group";
