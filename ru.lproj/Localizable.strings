@@ -132,45 +132,66 @@
 "DEVELOPER_SUPPORT" = "Поддержите BHTTPP и получите доступ к группе для бета-тестирования";
 
 // Comment Features  
-"Disable Comment Tooltip" = "Disable Comment Tooltip";  
-"Add Comment as Post" = "Add Comment as Post";  
-"Add Comment as Story" = "Add Comment as Story";   
-"Mass Unfold Comment Replies" = "Mass Unfold Comment Replies";  
-"Auto Unfold Comment Texts" = "Auto Unfold Comment Texts";  
-"Multi Emoji Comment Bar" = "Multi Emoji Comment Bar";  
-"Hide Emoji-Bar" = "Hide Emoji-Bar";  
-"Comment Cell Redesign" = "Comment Cell Redesign";  
+"Disable Comment Tooltip" = "Отключить подсказку эмодзи";  
+"Add Comment as Post" = "Комментировать в виде поста";  
+"Add Comment as Story" = "Комментировать в виде истории";   
+"Mass Unfold Comment Replies" = "Развернуть ответы";  
+"Auto Unfold Comment Texts" = "Развернуть текст";  
+"Multi Emoji Comment Bar" = "Расширить панель с эмодзи";  
+"Hide Emoji-Bar" = "Скрыть панель с эмодзи";  
+"Comment Cell Redesign" = "Редизайн ячеек для комментариев";  
   
 // Feature Descriptions  
-"FEATURE_DISABLE_COMMENT_TOOLTIP" = "Disable the Quick-Emoji Tool-Tip When Holding Comment Button";  
-"FEATURE_ADD_COMMENT_POST" = "Enable posting comments as regular posts";  
-"FEATURE_ADD_COMMENT_STORY" = "Enable posting comments as stories";  
-"FEATURE_MASS_UNFOLD" = "Unfold all comment replies at once";  
-"FEATURE_AUTO_UNFOLD" = "Automatically unfold text in long comments";  
-"FEATURE_MULTI_EMOJI" = "Enable extended emoji bar in comments";  
-"FEATURE_HIDE_EMOJI" = "Hide Initial Emoji-Bar in Comments";  
-"FEATURE_COMMENT_REDESIGN" = "Select comment cell design style";
+"FEATURE_DISABLE_COMMENT_TOOLTIP" = "Отключает подсказку эмодзи при удержании кнопки комментария";  
+"FEATURE_ADD_COMMENT_POST" = "Включает отправку комментария в виде поста";  
+"FEATURE_ADD_COMMENT_STORY" = "Включает отправку комментария в виде историй";  
+"FEATURE_MASS_UNFOLD" = "Разворачивает все ответы на комментарии сразу";  
+"FEATURE_AUTO_UNFOLD" = "Разворачивает текст в длинных комментариях";  
+"FEATURE_MULTI_EMOJI" = "Включает расширенную панель с эмодзи в комментариях";  
+"FEATURE_HIDE_EMOJI" = "Скрывает панель эмодзи в комментариях";  
+"FEATURE_COMMENT_REDESIGN" = "Позволяет выбрать дизайн ячеек для комментариев";
 
 // Comment and Design Settings  
-"Comment Settings" = "Comment Settings";  
-"Design Options" = "Design Options";  
-"Comment Features" = "Comment Features";  
-"Comment Design" = "Comment Design";  
-"Select Design" = "Select Design";  
+"Comment Settings" = "Настройки комментариев";  
+"Design Options" = "Настройки стиля";  
+"Comment Features" = "Функции комментариев";  
+"Comment Design" = "Дизайн комментариев";  
+"Select Design" = "Выберите стиль";  
   
 // Design Options  
-"Default" = "Default";  
-"Modern" = "Modern";  
-"Compact" = "Compact";  
+"Default" = "Обычный";  
+"Modern" = "Современный";  
+"Compact" = "Компактный";  
   
 // Action Options  
-"Cancel" = "Cancel";  
-"Regions" = "Regions";  
-"Live Button Actions" = "Live Button Actions";  
-"Actions" = "Actions";  
-"Live Actions" = "Live Actions";  
+"Cancel" = "Отмена";  
+"Regions" = "Регион";  
+"Live Button Actions" = "Действия для кнопки LIVE";  
+"Actions" = "Действия";  
+"Live Actions" = "Действия для кнопки LIVE";  
   
 // Playback Settings  
-"BHTikTok++ Settings" = "BHTikTok++ Settings";  
-"Playback Speed" = "Playback Speed";  
-"Select Speed" = "Select Speed";
+"BHTikTok++ Settings" = "Настройки BHTikTok++";  
+"Playback Speed" = "Скорость воспроизведения";  
+"Select Speed" = "Выберите скорость";
+
+// Region Section  
+"Enable Region Changing Functionality" = "Включает смену региона";  
+  
+// Live Button Function Section  
+"Change Action of Live Button" = "Изменяет действие кнопки LIVE";  
+  
+// Playback Speed Section  
+"Enable Persistent Playback Speed." = "Изменяет скорость воспроизведения на постоянную";  
+  
+// Comment Settings Section  
+"Configure Advanced Comment Settings" = "Настраивает раздел комментариев";  
+  
+// Language Section  
+"Select App Language" = "Выберите язык";
+
+"Enable Region Changing" = "Включить смену региона";  
+"Live Button Action" = "Действия кнопки LIVE";
+
+"Language 🌎" = @"Язык 🌎"
+"Speeds" = "Скорость";
