@@ -194,5 +194,9 @@
 "Enable Region Changing" = "Enable Region Changing";  
 "Live Button Action" = "Live Button Action";
 
+<<<<<<< HEAD
 "Language 🌎" = "Language 🌎"
+=======
+"Language 🌎" = @"Language 🌎"
+>>>>>>> 7a473d4bb385fa871c9eadc9f56b2adbbd759457
 "Speeds" = "Speeds"
