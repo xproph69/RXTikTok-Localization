@@ -2,7 +2,7 @@
 
 // Main Titles
 "BHTikTok, Hi" = "BHTikTok, Hi";
-"BHTikTok++ settings" = "BHTikTok++ Settings";
+"BHTikTok++ Settings" = "BHTikTok++ Settings";
 
 // Common Actions
 "Yes" = "Yes";
@@ -12,6 +12,7 @@
 "Downloading" = "Downloading";
 "Backgrounding ✌️" = "Backgrounding ✌️";
 "Are you sure?" = "Are you sure?";
+"Cancel" = "Cancel";
 
 // Download Options
 "Download Video" = "Download Video";
@@ -19,21 +20,19 @@
 "Download Music" = "Download Music";
 "Download Photo" = "Download Photo";
 "Download All Photos" = "Download All Photos";
+"Downloads Menu" = "Downloads Menu";
+"Download Photos Menu" = "Download Photos Menu";
 
 // Copy Options
-"Copy Music link" = "Copy haha Link";
+"Copy Music link" = "Copy Music Link";
 "Copy Video link" = "Copy Video Link";
-"Copy Decription" = "Copy Description";
+"Copy Description" = "Copy Description";
 "Copy bio" = "Copy Bio";
+"Copy Menu" = "Copy Menu";
 
 // Error Messages
 "Could Not Copy Music" = "Could Not Copy Music";
-"The video dosen't have music to download" = "The video doesn't have music to download";
-
-// Menu Labels
-"Downloads Menu" = "Downloads Menu";
-"Copy Menu" = "Copy Menu";
-"Download Photos Menu" = "Download Photos Menu";
+"The video doesn't have music to download" = "The video doesn't have music to download";
 
 // Section Headers
 "Feed" = "Feed";
@@ -41,9 +40,7 @@
 "Confirm" = "Confirm";
 "Other" = "Other";
 "Region" = "Region";
-"Live Button Function" = "Live Button Function";
-"Playback Speed" = "Playback Speed";
-"Developer" = "Developer";
+"Actions" = "Actions";
 
 // Feed Features
 "Hide Ads" = "Hide Ads";
@@ -89,6 +86,49 @@
 "Enable Flex" = "Enable Flex";
 "Enable Oled Keyboard" = "Enable Oled Keyboard";
 
+// Comment Features
+"Disable Comment Tooltip" = "Disable Comment Tooltip";
+"Add Comment as Post" = "Add Comment as Post";
+"Add Comment as Story" = "Add Comment as Story";
+"Mass Unfold Comment Replies" = "Mass Unfold Comment Replies";
+"Auto Unfold Comment Texts" = "Auto Unfold Comment Texts";
+"Multi Emoji Comment Bar" = "Multi Emoji Comment Bar";
+"Hide Emoji-Bar" = "Hide Emoji-Bar";
+"Comment Cell Redesign" = "Comment Cell Redesign";
+"Comment Settings" = "Comment Settings";
+"Comment Features" = "Comment Features";
+"Comment Design" = "Comment Design";
+"Configure Advanced Comment Settings" = "Configure Advanced Comment Settings";
+
+// Design Options
+"Design Options" = "Design Options";
+"Select Design" = "Select Design";
+"Default" = "Default";
+"Modern" = "Modern";
+"Compact" = "Compact";
+
+// Live Button Settings
+"Live Button Function" = "Live Button Function";
+"Live Button Actions" = "Live Button Actions";
+"Live Actions" = "Live Actions";
+"Change Action of Live Button" = "Change Action of Live Button";
+"Live Button Action" = "Live Button Action";
+
+// Region Settings
+"Regions" = "Regions";
+"Enable Region Changing" = "Enable Region Changing";
+"Enable Region Changing Functionality" = "Enable Region Changing Functionality";
+
+// Playback Settings
+"Playback Speed" = "Playback Speed";
+"Select Speed" = "Select Speed";
+"Speeds" = "Speeds";
+"Enable Persistent Playback Speed" = "Enable Persistent Playback Speed";
+
+// Language Settings
+"Language 🌎" = "Language 🌎";
+"Select App Language" = "Select App Language";
+
 // Feature Descriptions
 "FEATURE_HIDE_ADS" = "Disable All Ads Within TikTok";
 "FEATURE_DOWNLOAD_BUTTON" = "Enable Download Button for Posts and Stories";
@@ -126,71 +166,16 @@
 "FEATURE_APP_LOCK" = "Lock TikTok Behind A Passcode";
 "FEATURE_ENABLE_FLEX" = "Developers Only, DO NOT TOUCH if you don't know what you're doing";
 "FEATURE_OLED_KEYBOARD" = "Works Only in Dark-Mode";
-
-// Developer Section
-"DEVELOPER_TELEGRAM" = "Join the telegram channel for the latest updates";
-"DEVELOPER_SUPPORT" = "Show your Support to Keep BHTTPP Up-To-Date and get access to the beta testers group";
-
-// Comment Features  
-"Disable Comment Tooltip" = "Disable Comment Tooltip";  
-"Add Comment as Post" = "Add Comment as Post";  
-"Add Comment as Story" = "Add Comment as Story";   
-"Mass Unfold Comment Replies" = "Mass Unfold Comment Replies";  
-"Auto Unfold Comment Texts" = "Auto Unfold Comment Texts";  
-"Multi Emoji Comment Bar" = "Multi Emoji Comment Bar";  
-"Hide Emoji-Bar" = "Hide Emoji-Bar";  
-"Comment Cell Redesign" = "Comment Cell Redesign";  
-  
-// Feature Descriptions  
-"FEATURE_DISABLE_COMMENT_TOOLTIP" = "Disable the Quick-Emoji Tool-Tip When Holding Comment Button";  
-"FEATURE_ADD_COMMENT_POST" = "Enable posting comments as regular posts";  
-"FEATURE_ADD_COMMENT_STORY" = "Enable posting comments as stories";  
-"FEATURE_MASS_UNFOLD" = "Unfold all comment replies at once";  
-"FEATURE_AUTO_UNFOLD" = "Automatically unfold text in long comments";  
-"FEATURE_MULTI_EMOJI" = "Enable extended emoji bar in comments";  
-"FEATURE_HIDE_EMOJI" = "Hide Initial Emoji-Bar in Comments";  
+"FEATURE_DISABLE_COMMENT_TOOLTIP" = "Disable the Quick-Emoji Tool-Tip When Holding Comment Button";
+"FEATURE_ADD_COMMENT_POST" = "Enable posting comments as regular posts";
+"FEATURE_ADD_COMMENT_STORY" = "Enable posting comments as stories";
+"FEATURE_MASS_UNFOLD" = "Unfold all comment replies at once";
+"FEATURE_AUTO_UNFOLD" = "Automatically unfold text in long comments";
+"FEATURE_MULTI_EMOJI" = "Enable extended emoji bar in comments";
+"FEATURE_HIDE_EMOJI" = "Hide Initial Emoji-Bar in Comments";
 "FEATURE_COMMENT_REDESIGN" = "Select comment cell design style";
 
-// Comment and Design Settings  
-"Comment Settings" = "Comment Settings";  
-"Design Options" = "Design Options";  
-"Comment Features" = "Comment Features";  
-"Comment Design" = "Comment Design";  
-"Select Design" = "Select Design";  
-  
-// Design Options  
-"Default" = "Default";  
-"Modern" = "Modern";  
-"Compact" = "Compact";  
-  
-// Action Options  
-"Cancel" = "Cancel";  
-"Regions" = "Regions";  
-"Live Button Actions" = "Live Button Actions";  
-"Actions" = "Actions";  
-"Live Actions" = "Live Actions";  
-  
-// Playback Settings  
-"BHTikTok++ Settings" = "BHTikTok++ Settings";  
-"Playback Speed" = "Playback Speed";  
-"Select Speed" = "Select Speed";
-
-// Region Section  
-"Enable Region Changing Functionality" = "Enable Region Changing Functionality";  
-  
-// Live Button Function Section  
-"Change Action of Live Button" = "Change Action of Live Button";  
-  
-// Playback Speed Section  
-"Enable Persistent Playback Speed." = "Enable Persistent Playback Speed.";  
-  
-// Comment Settings Section  
-"Configure Advanced Comment Settings" = "Configure Advanced Comment Settings";  
-  
-// Language Section  
-"Select App Language" = "Select App Language";
-
-"Enable Region Changing" = "Enable Region Changing";  
-"Live Button Action" = "Live Button Action";
-"Language 🌎" = @"Language 🌎"
-"Speeds" = "Speeds"
+// Developer Section
+"Developer" = "Developer";
+"DEVELOPER_TELEGRAM" = "Join the telegram channel for the latest updates";
+"DEVELOPER_SUPPORT" = "Show your Support to Keep BHTTPP Up-To-Date and get access to the beta testers group";
