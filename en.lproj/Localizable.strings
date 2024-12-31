@@ -174,3 +174,23 @@
 "BHTikTok++ Settings" = "BHTikTok++ Settings";  
 "Playback Speed" = "Playback Speed";  
 "Select Speed" = "Select Speed";
+
+// Region Section  
+"Enable Region Changing Functionality" = "Enable Region Changing Functionality";  
+  
+// Live Button Function Section  
+"Change Action of Live Button" = "Change Action of Live Button";  
+  
+// Playback Speed Section  
+"Enable Persistent Playback Speed." = "Enable Persistent Playback Speed.";  
+  
+// Comment Settings Section  
+"Configure Advanced Comment Settings" = "Configure Advanced Comment Settings";  
+  
+// Language Section  
+"Select App Language" = "Select App Language";
+
+"Enable Region Changing" = "Enable Region Changing";  
+"Live Button Action" = "Live Button Action";
+"Language 🌎" = @"Language 🌎"
+"Speeds" = "Speeds"
