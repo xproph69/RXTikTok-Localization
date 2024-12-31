@@ -140,8 +140,24 @@
 "Multi Emoji Comment Bar" = "Расширить панель с эмодзи";  
 "Hide Emoji-Bar" = "Скрыть панель с эмодзи";  
 "Comment Cell Redesign" = "Редизайн ячеек для комментариев";  
+"Disable Comment Tooltip" = "Отключить подсказку эмодзи";  
+"Add Comment as Post" = "Комментировать в виде поста";  
+"Add Comment as Story" = "Комментировать в виде истории";   
+"Mass Unfold Comment Replies" = "Развернуть ответы";  
+"Auto Unfold Comment Texts" = "Развернуть текст";  
+"Multi Emoji Comment Bar" = "Расширить панель с эмодзи";  
+"Hide Emoji-Bar" = "Скрыть панель с эмодзи";  
+"Comment Cell Redesign" = "Редизайн ячеек для комментариев";  
   
 // Feature Descriptions  
+"FEATURE_DISABLE_COMMENT_TOOLTIP" = "Отключает подсказку эмодзи при удержании кнопки комментария";  
+"FEATURE_ADD_COMMENT_POST" = "Включает отправку комментария в виде поста";  
+"FEATURE_ADD_COMMENT_STORY" = "Включает отправку комментария в виде историй";  
+"FEATURE_MASS_UNFOLD" = "Разворачивает все ответы на комментарии сразу";  
+"FEATURE_AUTO_UNFOLD" = "Разворачивает текст в длинных комментариях";  
+"FEATURE_MULTI_EMOJI" = "Включает расширенную панель с эмодзи в комментариях";  
+"FEATURE_HIDE_EMOJI" = "Скрывает панель эмодзи в комментариях";  
+"FEATURE_COMMENT_REDESIGN" = "Позволяет выбрать дизайн ячеек для комментариев";
 "FEATURE_DISABLE_COMMENT_TOOLTIP" = "Отключает подсказку эмодзи при удержании кнопки комментария";  
 "FEATURE_ADD_COMMENT_POST" = "Включает отправку комментария в виде поста";  
 "FEATURE_ADD_COMMENT_STORY" = "Включает отправку комментария в виде историй";  
@@ -157,13 +173,26 @@
 "Comment Features" = "Функции комментариев";  
 "Comment Design" = "Дизайн комментариев";  
 "Select Design" = "Выберите стиль";  
+"Comment Settings" = "Настройки комментариев";  
+"Design Options" = "Настройки стиля";  
+"Comment Features" = "Функции комментариев";  
+"Comment Design" = "Дизайн комментариев";  
+"Select Design" = "Выберите стиль";  
   
 // Design Options  
 "Default" = "Обычный";  
 "Modern" = "Современный";  
 "Compact" = "Компактный";  
+"Default" = "Обычный";  
+"Modern" = "Современный";  
+"Compact" = "Компактный";  
   
 // Action Options  
+"Cancel" = "Отмена";  
+"Regions" = "Регион";  
+"Live Button Actions" = "Действия для кнопки LIVE";  
+"Actions" = "Действия";  
+"Live Actions" = "Действия для кнопки LIVE";  
 "Cancel" = "Отмена";  
 "Regions" = "Регион";  
 "Live Button Actions" = "Действия для кнопки LIVE";  
