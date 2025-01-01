@@ -137,7 +137,7 @@
 "FEATURE_UI_BUTTON" = "Boş Mod Butonunu Aktif Et";
 "FEATURE_STOP_PLAYBACK" = "Oynatma Bitince Otomatik Kaydırmayı Devre Dışı Bırak";
 "FEATURE_AUTO_PLAY" = "Oynatma Bitince Sonraki Gönderiye Otomatik Kaydır";
-"FEATURE_PROGRESS_BAR" = "Videonun Altında İlerleme Çubuğunu Göster";
+"FEATURE_PROGRESS_BAR" = "Her Zaman İlerleme Çubuğunu Göster";
 "FEATURE_TRANSPARENT_COMMENTS" = "Yorum Bölümünü Şeffaf Yap";
 "FEATURE_SHOW_USERNAMES" = "Takma Adları Kullanıcı Adıyla Değiştir";
 "FEATURE_DISABLE_SENSITIVE" = "Hassas İçerik Uyarısını Gizle";
