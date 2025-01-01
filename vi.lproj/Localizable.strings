@@ -131,69 +131,67 @@
 "DEVELOPER_TELEGRAM" = "Tham gia kênh Telegram để nhận các cập nhật mới nhất";
 "DEVELOPER_SUPPORT" = "Hỗ trợ để giữ BHTTPP được cập nhật và truy cập nhóm thử nghiệm beta";
 
-// Comment Features  
-"Disable Comment Tooltip" = "Disable Comment Tooltip";  
-"Add Comment as Post" = "Add Comment as Post";  
-"Add Comment as Story" = "Add Comment as Story";   
-"Mass Unfold Comment Replies" = "Mass Unfold Comment Replies";  
-"Auto Unfold Comment Texts" = "Auto Unfold Comment Texts";  
-"Multi Emoji Comment Bar" = "Multi Emoji Comment Bar";  
-"Hide Emoji-Bar" = "Hide Emoji-Bar";  
-"Comment Cell Redesign" = "Comment Cell Redesign";  
-  
-// Feature Descriptions  
-"FEATURE_DISABLE_COMMENT_TOOLTIP" = "Disable the Quick-Emoji Tool-Tip When Holding Comment Button";  
-"FEATURE_ADD_COMMENT_POST" = "Enable posting comments as regular posts";  
-"FEATURE_ADD_COMMENT_STORY" = "Enable posting comments as stories";  
-"FEATURE_MASS_UNFOLD" = "Unfold all comment replies at once";  
-"FEATURE_AUTO_UNFOLD" = "Automatically unfold text in long comments";  
-"FEATURE_MULTI_EMOJI" = "Enable extended emoji bar in comments";  
-"FEATURE_HIDE_EMOJI" = "Hide Initial Emoji-Bar in Comments";  
-"FEATURE_COMMENT_REDESIGN" = "Select comment cell design style";
+// Comment Features
+"Disable Comment Tooltip" = "Tắt Tooltip Bình Luận";
+"Add Comment as Post" = "Thêm Bình Luận Dưới Dạng Bài Đăng";
+"Add Comment as Story" = "Thêm Bình Luận Dưới Dạng Tin";
+"Mass Unfold Comment Replies" = "Mở Toàn Bộ Phản Hồi Bình Luận";
+"Auto Unfold Comment Texts" = "Tự Động Mở Nội Dung Bình Luận Dài";
+"Multi Emoji Comment Bar" = "Thanh Emoji Đa Dạng Trong Bình Luận";
+"Hide Emoji-Bar" = "Ẩn Thanh Emoji";
+"Comment Cell Redesign" = "Thiết Kế Lại Giao Diện Bình Luận";
 
-// Comment and Design Settings  
-"Comment Settings" = "Comment Settings";  
-"Design Options" = "Design Options";  
-"Comment Features" = "Comment Features";  
-"Comment Design" = "Comment Design";  
-"Select Design" = "Select Design";  
-  
-// Design Options  
-"Default" = "Default";  
-"Modern" = "Modern";  
-"Compact" = "Compact";  
-  
-// Action Options  
-"Cancel" = "Cancel";  
-"Regions" = "Regions";  
-"Live Button Actions" = "Live Button Actions";  
-"Actions" = "Actions";  
-"Live Actions" = "Live Actions";  
-  
-// Playback Settings  
-"BHTikTok++ Settings" = "BHTikTok++ Settings";  
-"Playback Speed" = "Playback Speed";  
-"Select Speed" = "Select Speed";
+// Feature Descriptions
+"FEATURE_DISABLE_COMMENT_TOOLTIP" = "Tắt Tooltip Emoji Nhanh Khi Nhấn Giữ Nút Bình Luận";
+"FEATURE_ADD_COMMENT_POST" = "Cho phép đăng bình luận dưới dạng bài viết thông thường";
+"FEATURE_ADD_COMMENT_STORY" = "Cho phép đăng bình luận dưới dạng tin";
+"FEATURE_MASS_UNFOLD" = "Mở toàn bộ các phản hồi bình luận cùng lúc";
+"FEATURE_AUTO_UNFOLD" = "Tự động mở nội dung cho các bình luận dài";
+"FEATURE_MULTI_EMOJI" = "Kích hoạt thanh emoji mở rộng trong bình luận";
+"FEATURE_HIDE_EMOJI" = "Ẩn thanh emoji ban đầu trong bình luận";
+"FEATURE_COMMENT_REDESIGN" = "Chọn phong cách thiết kế giao diện bình luận";
 
+// Comment and Design Settings
+"Comment Settings" = "Cài Đặt Bình Luận";
+"Design Options" = "Tùy Chọn Giao Diện";
+"Comment Features" = "Tính Năng Bình Luận";
+"Comment Design" = "Giao Diện Bình Luận";
+"Select Design" = "Chọn Giao Diện";
+
+// Design Options
+"Default" = "Mặc Định";
+"Modern" = "Hiện Đại";
+"Compact" = "Gọn Gàng";
+
+// Action Options
+"Cancel" = "Hủy";
+"Regions" = "Khu Vực";
+"Live Button Actions" = "Hành Động Nút Live";
+"Actions" = "Hành Động";
+"Live Actions" = "Hành Động Trực Tiếp";
+
+// Playback Settings
+"BHTikTok++ Settings" = "Cài Đặt BHTikTok++";
+"Playback Speed" = "Tốc Độ Phát";
+"Select Speed" = "Chọn Tốc Độ";
 
 // Region Section  
-"Enable Region Changing Functionality" = "Enable Region Changing Functionality";  
-  
-// Live Button Function Section  
-"Change Action of Live Button" = "Change Action of Live Button";  
-  
-// Playback Speed Section  
-"Enable Persistent Playback Speed." = "Enable Persistent Playback Speed.";  
-  
-// Comment Settings Section  
-"Configure Advanced Comment Settings" = "Configure Advanced Comment Settings";  
-  
-// Language Section  
-"Select App Language" = "Select App Language";
+"Enable Region Changing Functionality" = "Kích Hoạt Tính Năng Thay Đổi Khu Vực";
 
-"Enable Region Changing" = "Enable Region Changing";  
-"Live Button Action" = "Live Button Action";
+// Live Button Function Section
+"Change Action of Live Button" = "Thay Đổi Hành Động Của Nút Live";
 
+// Playback Speed Section
+"Enable Persistent Playback Speed." = "Bật Tốc Độ Phát Cố Định";
 
-"Language 🌎" = "Language 🌎";
-"Speeds" = "Speeds";
+// Comment Settings Section
+"Configure Advanced Comment Settings" = "Cấu Hình Cài Đặt Bình Luận Nâng Cao";
+
+// Language Section
+"Select App Language" = "Chọn Ngôn Ngữ Ứng Dụng";
+
+"Enable Region Changing" = "Kích Hoạt Thay Đổi Khu Vực";
+"Live Button Action" = "Hành Động Nút Live";
+
+"Language 🌎" = "Ngôn Ngữ 🌎";
+"Speeds" = "Tốc Độ";
