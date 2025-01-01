@@ -132,67 +132,67 @@
 "DEVELOPER_SUPPORT" = "Apoya para Mantener BHTTPP Actualizado y accede al grupo de beta testers";
 
 // Comment Features  
-"Disable Comment Tooltip" = "Disable Comment Tooltip";  
-"Add Comment as Post" = "Add Comment as Post";  
-"Add Comment as Story" = "Add Comment as Story";   
-"Mass Unfold Comment Replies" = "Mass Unfold Comment Replies";  
-"Auto Unfold Comment Texts" = "Auto Unfold Comment Texts";  
-"Multi Emoji Comment Bar" = "Multi Emoji Comment Bar";  
-"Hide Emoji-Bar" = "Hide Emoji-Bar";  
-"Comment Cell Redesign" = "Comment Cell Redesign";  
-  
+"Disable Comment Tooltip" = "Desactivar Tooltip de Comentarios";  
+"Add Comment as Post" = "Agregar Comentario como Publicacion";  
+"Add Comment as Story" = "Agregar Comentario como Historia";   
+"Mass Unfold Comment Replies" = "Desplegar Muchas Respuestas de Comentarios";  
+"Auto Unfold Comment Texts" = "Desplegar Automaticamente Textos de Comentarios";  
+"Multi Emoji Comment Bar" = "Barra de Comentarios con Mas Emojis";  
+"Hide Emoji-Bar" = "Ocultar Barra de Emojis";  
+"Comment Cell Redesign" = "Rediseñar Celda de Comentarios";  
+
 // Feature Descriptions  
-"FEATURE_DISABLE_COMMENT_TOOLTIP" = "Disable the Quick-Emoji Tool-Tip When Holding Comment Button";  
-"FEATURE_ADD_COMMENT_POST" = "Enable posting comments as regular posts";  
-"FEATURE_ADD_COMMENT_STORY" = "Enable posting comments as stories";  
-"FEATURE_MASS_UNFOLD" = "Unfold all comment replies at once";  
-"FEATURE_AUTO_UNFOLD" = "Automatically unfold text in long comments";  
-"FEATURE_MULTI_EMOJI" = "Enable extended emoji bar in comments";  
-"FEATURE_HIDE_EMOJI" = "Hide Initial Emoji-Bar in Comments";  
-"FEATURE_COMMENT_REDESIGN" = "Select comment cell design style";
+"FEATURE_DISABLE_COMMENT_TOOLTIP" = "Desactivar la herramienta rapida de emoji al mantener presionado el boton de comentario";  
+"FEATURE_ADD_COMMENT_POST" = "Habilitar publicacion de comentarios como publicaciones normales";  
+"FEATURE_ADD_COMMENT_STORY" = "Habilitar publicacion de comentarios como historias";  
+"FEATURE_MASS_UNFOLD" = "Desplegar muchas respuestas de comentarios a la vez";  
+"FEATURE_AUTO_UNFOLD" = "Desplegar automaticamente texto en comentarios largos";  
+"FEATURE_MULTI_EMOJI" = "Habilitar barra de emojis extendida en comentarios";  
+"FEATURE_HIDE_EMOJI" = "Ocultar barra de emojis inicial en comentarios";  
+"FEATURE_COMMENT_REDESIGN" = "Seleccionar estilo de diseno de celda de comentarios";
 
 // Comment and Design Settings  
-"Comment Settings" = "Comment Settings";  
-"Design Options" = "Design Options";  
-"Comment Features" = "Comment Features";  
-"Comment Design" = "Comment Design";  
-"Select Design" = "Select Design";  
-  
+"Comment Settings" = "Configuracion de Comentarios";  
+"Design Options" = "Opciones de Diseno";  
+"Comment Features" = "Caracteristicas de Comentarios";  
+"Comment Design" = "Diseno de Comentarios";  
+"Select Design" = "Seleccionar Diseno";  
+
 // Design Options  
-"Default" = "Default";  
-"Modern" = "Modern";  
-"Compact" = "Compact";  
-  
+"Default" = "Predeterminado";  
+"Modern" = "Moderno";  
+"Compact" = "Compacto";  
+
 // Action Options  
-"Cancel" = "Cancel";  
-"Regions" = "Regions";  
-"Live Button Actions" = "Live Button Actions";  
-"Actions" = "Actions";  
-"Live Actions" = "Live Actions";  
-  
+"Cancel" = "Cancelar";  
+"Regions" = "Regiones";  
+"Live Button Actions" = "Acciones del Boton en Vivo";  
+"Actions" = "Acciones";  
+"Live Actions" = "Acciones en Vivo";  
+
 // Playback Settings  
-"BHTikTok++ Settings" = "BHTikTok++ Settings";  
-"Playback Speed" = "Playback Speed";  
-"Select Speed" = "Select Speed";
+"BHTikTok++ Settings" = "Configuraciones de BHTikTok++";  
+"Playback Speed" = "Velocidad de Reproduccion";  
+"Select Speed" = "Seleccionar Velocidad";
 
 
 // Region Section  
-"Enable Region Changing Functionality" = "Enable Region Changing Functionality";  
-  
+"Enable Region Changing Functionality" = "Habilitar Funcionalidad para Cambiar Region";  
+
 // Live Button Function Section  
-"Change Action of Live Button" = "Change Action of Live Button";  
-  
+"Change Action of Live Button" = "Cambiar Accion del Boton en Vivo";  
+
 // Playback Speed Section  
-"Enable Persistent Playback Speed." = "Enable Persistent Playback Speed.";  
-  
+"Enable Persistent Playback Speed." = "Habilitar Velocidad de Reproduccion Persistente.";  
+
 // Comment Settings Section  
-"Configure Advanced Comment Settings" = "Configure Advanced Comment Settings";  
-  
+"Configure Advanced Comment Settings" = "Configurar Ajustes Avanzados de Comentarios";  
+
 // Language Section  
-"Select App Language" = "Select App Language";
+"Select App Language" = "Seleccionar Idioma de la Aplicacion";
 
-"Enable Region Changing" = "Enable Region Changing";  
-"Live Button Action" = "Live Button Action";
+"Enable Region Changing" = "Habilitar Cambio de Region";  
+"Live Button Action" = "Accion del Boton en Vivo";
 
-"Language 🌎" = @"Language 🌎"
-"Speeds" = "Speeds"
+"Language 🌎" = "Idioma 🌎";
+"Speeds" = "Velocidades";
