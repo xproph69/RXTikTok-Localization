@@ -1,0 +1,176 @@
+/* Localizable.strings */
+
+// Main Titles
+"BHTikTok, Hi" = "BHTikTok، مرحباً";
+"BHTikTok++ settings" = "إعدادات BHTikTok++";
+
+// Common Actions
+"Yes" = "نعم";
+"No" = "لا";
+"ON" = "تشغيل";
+"OFF" = "إيقاف";
+"Downloading" = "جارٍ التنزيل";
+"Backgrounding ✌️" = "التشغيل في الخلفية ✌️";
+"Are you sure?" = "هل أنت متأكد؟";
+
+// Download Options
+"Download Video" = "تنزيل الفيديو";
+"Download HD Video" = "تنزيل الفيديو بجودة HD";
+"Download Music" = "تنزيل الموسيقى";
+"Download Photo" = "تنزيل الصورة";
+"Download All Photos" = "تنزيل جميع الصور";
+
+// Copy Options
+"Copy Music link" = "نسخ رابط الموسيقى";
+"Copy Video link" = "نسخ رابط الفيديو";
+"Copy Decription" = "نسخ الوصف";
+"Copy bio" = "نسخ السيرة الذاتية";
+
+// Error Messages
+"Could Not Copy Music" = "لم يتم نسخ الموسيقى";
+"The video dosen't have music to download" = "الفيديو لا يحتوي على موسيقى للتنزيل";
+
+// Menu Labels
+"Downloads Menu" = "قائمة التنزيلات";
+"Copy Menu" = "قائمة النسخ";
+"Download Photos Menu" = "قائمة تنزيل الصور";
+
+// Section Headers
+"Feed" = "آخر الأخبار";
+"Profile" = "الملف الشخصي";
+"Confirm" = "تأكيد";
+"Other" = "أخرى";
+"Region" = "المنطقة";
+"Live Button Function" = "وظيفة زر البث المباشر";
+"Playback Speed" = "سرعة التشغيل";
+"Developer" = "المطور";
+
+// Feed Features
+"Hide Ads" = "إخفاء الإعلانات";
+"Download Button" = "زر التنزيل";
+"Share Sheet" = "نافذة المشاركة";
+"Remove Watermark" = "إزالة العلامة المائية";
+"Show/Hide UI Button" = "إظهار/إخفاء زر واجهة المستخدم";
+"Stop Playback" = "إيقاف التشغيل";
+"Auto Play Next Video" = "تشغيل الفيديو التالي تلقائيًا";
+"Show Progress Bar" = "إظهار شريط التقدم";
+"Transparent Comments" = "تعليقات شفافة";
+"Show Usernames" = "إظهار أسماء المستخدمين";
+"Disable Sensitive Content" = "تعطيل المحتوى الحساس";
+"Disable Warnings" = "تعطيل التحذيرات";
+"Disable Live Streaming" = "تعطيل البث المباشر";
+"Skip Recommendations" = "تخطي الاقتراحات";
+"Upload Region" = "منطقة الرفع";
+"Hide Top Feed items" = "إخفاء العناصر العلوية في الخلاصة";
+"Anonymous Seen" = "تمت المشاهدة بشكل مجهول";
+
+// Profile Features
+"Profile Save" = "حفظ الملف الشخصي";
+"Profile Copy" = "نسخ الملف الشخصي";
+"Video Like Count" = "عدد الإعجابات على الفيديو";
+"Video Upload Date" = "تاريخ رفع الفيديو";
+
+// Confirm Features
+"Like Confirmation" = "تأكيد الإعجاب";
+"Like Comment Confirmation" = "تأكيد الإعجاب بالتعليق";
+"Dislike Comment Confirmation" = "تأكيد عدم الإعجاب بالتعليق";
+"Follow Confirmation" = "تأكيد المتابعة";
+
+// Other Features
+"Auto Clear History" = "مسح السجل تلقائيًا";
+"Enable Fake Changes" = "تفعيل التغييرات الوهمية";
+"Follower" = "متابع";
+"Following" = "يتابع";
+"Fake Verified" = "علامة التحقق المزيفة";
+"Extended Bio" = "سيرة ذاتية مطولة";
+"Extended Comments" = "تعليقات مطولة";
+"Upload HD" = "الرفع بجودة عالية";
+"App Lock" = "قفل التطبيق";
+"Enable Flex" = "تفعيل Flex";
+"Enable Oled Keyboard" = "تفعيل لوحة مفاتيح OLED";
+
+// Feature Descriptions
+"FEATURE_HIDE_ADS" = "تعطيل جميع الإعلانات داخل TikTok";
+"FEATURE_DOWNLOAD_BUTTON" = "تفعيل زر التنزيل للمنشورات والقصص";
+"FEATURE_SHARE_SHEET" = "فتح نافذة المشاركة بعد تنزيل الوسائط";
+"FEATURE_REMOVE_WATERMARK" = "إزالة علامة TikTok المائية من الوسائط";
+"FEATURE_UI_BUTTON" = "إظهار أو إخفاء زر واجهة المستخدم";
+"FEATURE_STOP_PLAYBACK" = "تعطيل التمرير التلقائي بعد انتهاء التشغيل";
+"FEATURE_AUTO_PLAY" = "الانتقال تلقائيًا إلى المنشور التالي بعد انتهاء التشغيل";
+"FEATURE_PROGRESS_BAR" = "إظهار شريط التقدم أسفل الفيديو";
+"FEATURE_TRANSPARENT_COMMENTS" = "جعل قسم التعليقات شفافًا";
+"FEATURE_SHOW_USERNAMES" = "استبدال الأسماء المستعارة بأسماء المستخدمين في المنشورات";
+"FEATURE_DISABLE_SENSITIVE" = "إخفاء تحذير 'محتوى حساس'";
+"FEATURE_DISABLE_WARNINGS" = "إخفاء تحذيرات TikTok";
+"FEATURE_DISABLE_LIVE" = "تعطيل البث المباشر من صفحة 'لك'";
+"FEATURE_SKIP_RECOMMENDED" = "تخطي مقاطع الفيديو المقترحة";
+"FEATURE_UPLOAD_REGION" = "عرض علم منطقة الرفع بجانب اسم المستخدم";
+"FEATURE_HIDE_TOP_ITEMS" = "إخفاء أزرار البحث والبث المباشر و (لك، متابعة، متجر، إلخ)";
+"FEATURE_ANONYMOUS_SEEN" = "مشاهدة الرسائل بشكل مجهول (إصدار تجريبي، تنبيه!)";
+"FEATURE_PROFILE_SAVE" = "حفظ تفاصيل الملف الشخصي";
+"FEATURE_PROFILE_COPY" = "نسخ معلومات الملف الشخصي";
+"FEATURE_LIKE_COUNT" = "إظهار عدد الإعجابات على المنشورات";
+"FEATURE_UPLOAD_DATE" = "إظهار تاريخ نشر المنشور";
+"FEATURE_CONFIRM_LIKE" = "تأكيد الإعجاب بالمنشورات";
+"FEATURE_CONFIRM_COMMENT_LIKE" = "تأكيد الإعجاب بالتعليقات";
+"FEATURE_CONFIRM_COMMENT_DISLIKE" = "تأكيد عدم الإعجاب بالتعليقات";
+"FEATURE_CONFIRM_FOLLOW" = "تأكيد متابعة المستخدم";
+"FEATURE_AUTO_CLEAR" = "مسح سجل البحث تلقائيًا كل 60 ثانية";
+"FEATURE_FAKE_CHANGES" = "تفعيل التعديلات الوهمية للملف الشخصي";
+"FEATURE_FOLLOWER_COUNT" = "إدخال عدد المتابعين الوهمي";
+"FEATURE_FOLLOWING_COUNT" = "إدخال عدد المتابعين الوهميين";
+"FEATURE_FAKE_VERIFIED" = "جعل حسابك يظهر كأنه موثق";
+"FEATURE_EXTENDED_BIO" = "تمديد عدد الأحرف المسموح بها في السيرة الذاتية";
+"FEATURE_EXTENDED_COMMENTS" = "تمديد عدد الأحرف المسموح بها في التعليقات";
+"FEATURE_UPLOAD_HD" = "رفع مقاطع الفيديو بجودة HD دائمًا";
+"FEATURE_APP_LOCK" = "حماية TikTok بكلمة مرور";
+"FEATURE_ENABLE_FLEX" = "للمطورين فقط، لا تلمس هذا الخيار إذا كنت لا تعرف ما تفعله";
+"FEATURE_OLED_KEYBOARD" = "يعمل فقط في الوضع المظلم";
+
+// Developer Section
+"DEVELOPER_TELEGRAM" = "انضم إلى قناة Telegram للحصول على آخر التحديثات";
+"DEVELOPER_SUPPORT" = "ادعم المطور للحفاظ على BHTikTok++ محدثًا واحصل على حق الوصول إلى مجموعة مختبري النسخة التجريبية";
+
+// Comment Features
+"Disable Comment Tooltip" = "تعطيل تلميح أداة التعليق";
+"Add Comment as Post" = "إضافة التعليق كمنشور";
+"Add Comment as Story" = "إضافة التعليق كقصة";
+"Mass Unfold Comment Replies" = "فتح جميع ردود التعليقات مرة واحدة";
+"Auto Unfold Comment Texts" = "فتح نصوص التعليقات الطويلة تلقائيًا";
+"Multi Emoji Comment Bar" = "شريط تعليقات متعدد الرموز التعبيرية";
+"Hide Emoji-Bar" = "إخفاء شريط الرموز التعبيرية";
+"Comment Cell Redesign" = "إعادة تصميم خلية التعليق";
+
+// Feature Descriptions
+"FEATURE_DISABLE_COMMENT_TOOLTIP" = "تعطيل تلميح الرموز التعبيرية السريعة عند الضغط مع الاستمرار على زر التعليق";
+"FEATURE_ADD_COMMENT_POST" = "تفعيل نشر التعليقات كمنشورات عادية";
+"FEATURE_ADD_COMMENT_STORY" = "تفعيل نشر التعليقات كقصص";
+"FEATURE_MASS_UNFOLD" = "فتح جميع ردود التعليقات دفعة واحدة";
+"FEATURE_AUTO_UNFOLD" = "فتح النص تلقائيًا في التعليقات الطويلة";
+"FEATURE_MULTI_EMOJI" = "تفعيل شريط الرموز التعبيرية الموسع في التعليقات";
+"FEATURE_HIDE_EMOJI" = "إخفاء شريط الرموز التعبيرية الأولي في التعليقات";
+"FEATURE_COMMENT_REDESIGN" = "تحديد نمط تصميم خلية التعليق";
+
+// Comment and Design Settings
+"Comment Settings" = "إعدادات التعليقات";
+"Design Options" = "خيارات التصميم";
+"Comment Features" = "مميزات التعليقات";
+"Comment Design" = "تصميم التعليقات";
+"Select Design" = "تحديد التصميم";
+
+// Design Options
+"Default" = "افتراضي";
+"Modern" = "حديث";
+"Compact" = "مضغوط";
+
+// Action Options
+"Cancel" = "إلغاء";
+"Regions" = "المناطق";
+"Live Button Actions" = "إجراءات زر البث المباشر";
+"Actions" = "إجراءات";
+"Live Actions" = "إجراءات البث المباشر";
+
+// Playback Settings
+"BHTikTok++ Settings" = "إعدادات BHTikTok++";
+"Playback Speed" = "سرعة التشغيل";
+"Select Speed" = "تحديد السرعة";
