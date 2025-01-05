@@ -1,8 +1,9 @@
 /* Localizable.strings */
 
 // Main Titles
-"BHTikTok, Hi" = "BHTikTok, Merhaba";
+"BHTikTok++, Hi" = "BHTikTok++, Merhaba";
 "BHTikTok++ Settings" = "BHTikTok++ Ayarları";
+@"Join Our Telegram." = @"Join Our Telegram.";
 
 // Common Actions
 "Yes" = "Evet";

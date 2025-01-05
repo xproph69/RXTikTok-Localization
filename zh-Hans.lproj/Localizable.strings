@@ -1,8 +1,9 @@
 /* Localizable.strings */
 
 // Main Titles
-"BHTikTok, Hi" = "嗨，BHTikTok！";
+"BHTikTok++, Hi" = "嗨，BHTikTok++！";
 "BHTikTok++ Settings" = "BHTikTok++ 设置";
+@"Join Our Telegram." = @"Join Our Telegram.";
 
 // Common Actions
 "Yes" = "是";

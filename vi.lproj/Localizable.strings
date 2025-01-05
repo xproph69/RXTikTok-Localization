@@ -1,8 +1,9 @@
 /* Localizable.strings */
 
 // Main Titles
-"BHTikTok, Hi" = "BHTikTok, Xin chào";
+"BHTikTok++, Hi" = "BHTikTok++, Xin chào";
 "BHTikTok++ settings" = "Cấu hình BHTikTok++";
+@"Join Our Telegram." = @"Join Our Telegram.";
 
 // Common Actions
 "Yes" = "Có";
