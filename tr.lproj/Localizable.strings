@@ -1,8 +1,8 @@
 /* Localizable.strings */
 
 // Main Titles
-" RXTikTok, Hi" = " RXTikTok, Merhaba";
-" RXTikTok Settings" = " RXTikTok Ayarları";
+"RXTikTok, Hi" = " RXTikTok, Merhaba";
+"RXTikTok Settings" = " RXTikTok Ayarları";
 <<<<<<< HEAD
 "Join Our Telegram." = "Join Our Telegram.";
 =======
@@ -29,7 +29,7 @@
 "Download Photos Menu" = "Fotoğraf İndirme Menüsü";
 
 // Copy Options
-"Copy Music link" = "Müziğin Bağlantısını Kopyala";  
+"Copy Music Link" = "Müziğin Bağlantısını Kopyala";  
 "Copy Video link" = "Videonun Bağlantısını Kopyala";  
 "Copy Description" = "Açıklamayı Kopyala";  
 "Copy bio" = "Biyografiyi Kopyala";  
@@ -128,7 +128,7 @@
 "Playback Speed" = "Oynatma Hızı";
 "Select Speed" = "Hızı Seç";
 "Speeds" = "Hızlar";
-"Enable Persistent Playback Speed" = "Sürekli Oynatma Hızı Özelliğini Etkinleştir";
+"Enable Persistent Playback Speed." = "Sürekli Oynatma Hızı Özelliğini Etkinleştir";
 
 // Language Settings
 "Language 🌎" = "Dil 🌎";
