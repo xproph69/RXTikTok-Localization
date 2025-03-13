@@ -33,6 +33,9 @@
 "Language 🌎" = "Language 🌎";
 "Show All Settings Tabs" = "Show All Settings Tabs";
 "Show Video Upload Timestamp" = "Show Video Upload Timestamp";
+"Remove Pendant View" = "Remove Pendant View";
+"Hide Commission Posts" = "Hide Commission Posts";
+"Hide dangerous-action Warning" = "Hide dangerous-action Warning";
 
 // MARK: - Download Features
 "Downloads Menu" = "Downloads Menu";
