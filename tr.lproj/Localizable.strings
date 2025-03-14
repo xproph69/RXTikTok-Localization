@@ -180,8 +180,8 @@
 "Please enable region changing first" = "Lütfen Önce Bölge Değiştirmeyi Açın";
 
 // MARK: - Feature Descriptions
-"FEATURE_ENABLE_COMMENT_FLAGS" = "FEATURE_ENABLE_COMMENT_FLAGS";
-"FEATURE_COPY_WITHOUT_USERNAME" = "FEATURE_COPY_WITHOUT_USERNAME";
+"FEATURE_ENABLE_COMMENT_FLAGS" = "Yorum bölgesini aktif et.";
+"FEATURE_COPY_WITHOUT_USERNAME" = "Kullanıcı adı olmadan kopyala.";
 "FEATURE_HIDE_ADS" = "TikTokdaki bütün reklamları kaldırır.";
 "FEATURE_DOWNLOAD_BUTTON" = "Videolarda ve storylerde indirme düğmesini aktif eder.";
 "FEATURE_SHARE_SHEET" = "İndirme yapıldıktan sonra iOS'un paylaşım merkezini açar.";
