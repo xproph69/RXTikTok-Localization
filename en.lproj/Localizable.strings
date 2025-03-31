@@ -248,7 +248,6 @@
 "FEATURE_SHOW_VIDEO_TIMESTAMP" = "Show Upload-Time Next To Username in Fyp";
 "FEATURE_HIDE_COMMISSION_POSTS" = "Remove Post That Say 'Creator Earns Commission'";
 
-
 // Comment Settings Descriptions
 "ENABLE_COMMENT_PHOTO" = "Allow adding photos to comments";
 "ENABLE_COMMENT_STICKERS" = "Allow adding stickers to comments";
@@ -271,3 +270,80 @@
 // MARK: - Developer
 "DEVELOPER_TELEGRAM" = "Join Telegram channel for latest updates";
 "DEVELOPER_SUPPORT" = "Support RXTikTok and get access to beta testing group";
+
+// MARK: - Missing Strings
+"Features list" = "Features list";
+"Not Selected" = "Not Selected";
+"Creator Profile Pull" = "Creator Profile Pull";
+"OK" = "OK";
+"Disable Left & Right Swipe" = "Disable Left & Right Swipe";
+"Pull To Camera" = "Pull To Camera";
+"Regions" = "Regions";
+"Full Region Mode" = "Full Region Mode";
+"Add Folders To Inbox" = "Add Folders To Inbox";
+
+// Additional missing strings
+"Settings" = "Settings";
+"Save" = "Save";
+"Delete" = "Delete";
+"Edit" = "Edit";
+"Close" = "Close";
+"Back" = "Back";
+"Next" = "Next";
+"Done" = "Done";
+"Error" = "Error";
+"Success" = "Success";
+"Warning" = "Warning";
+"Loading" = "Loading";
+"Search" = "Search";
+"Apply" = "Apply";
+"Reset" = "Reset";
+"Video saved successfully" = "Video saved successfully";
+"Photo saved successfully" = "Photo saved successfully";
+"Failed to save media" = "Failed to save media";
+"No internet connection" = "No internet connection";
+"Select All" = "Select All";
+"Deselect All" = "Deselect All";
+"More Options" = "More Options";
+"Share" = "Share";
+"Copy Link" = "Copy Link";
+"Report" = "Report";
+"Block" = "Block";
+"Unfollow" = "Unfollow";
+"Hide" = "Hide";
+"Show" = "Show";
+"Enable" = "Enable";
+"Disable" = "Disable";
+
+// MARK: - Missing Feature Descriptions
+"FEATURE_CREATOR_PROFILE_PULL" = "View creator profiles when pulling down";
+"FEATURE_DISABLE_SWIPE" = "Disable swiping left and right in feed";
+"FEATURE_PULL_TO_CAMERA" = "Enable pull-to-camera feature";
+"FEATURE_ADD_FOLDERS" = "Add folder organization to inbox messages";
+"FEATURE_FULL_REGION_MODE" = "Only Enable If The First Option Does Not Work!!";
+
+// Additional feature descriptions
+"FEATURE_ANONYMOUS_SEEN_DESC" = "View chats without sending read receipts to the sender";
+"FEATURE_SHOW_ALL_TABS_DESC" = "Show all hidden settings tabs, including experimental features";
+"FEATURE_PROFILE_SAVE_DESC" = "Save profile information to your clipboard with one tap";
+"FEATURE_PROFILE_COPY_DESC" = "Copy profile details including username, bio, and other public information";
+"FEATURE_APP_LOCK_DESC" = "Secure your TikTok app with a password or biometric authentication";
+"FEATURE_REGIONS_DESC" = "Access region-specific content by changing your virtual location";
+"FEATURE_ADD_FOLDERS_DESC" = "Organize your inbox messages into custom folders for better management";
+
+// MARK: - Credits View
+"Credits" = "Credits";
+"Special Thanks to" = "Special Thanks to";
+"Community" = "Community";
+"Main Developer, Owner" = "Main Developer, Owner";
+"Co-Owner" = "Co-Owner";
+"DRM Developer" = "DRM Developer";
+"Contributor" = "Contributor";
+"UI Designer" = "UI Designer";
+"Telegram Channel" = "Telegram Channel";
+"Telegram Discussion Group" = "Telegram Discussion Group";
+"Get the latest updates and news" = "Get the latest updates and news";
+"Join the community discussion" = "Join the community discussion";
+"Buy Me a Coffee" = "Buy Me a Coffee";
+"Support the development" = "Support the development";
+"X" = "X";
