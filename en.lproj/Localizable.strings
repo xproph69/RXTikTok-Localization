@@ -263,6 +263,8 @@
 "FEATURE_COPY_WITHOUT_USERNAME" = "Copy Comments Without 'Username: '";
 "FEATURE_ENABLE_COMMENT_FLAGS" = "Show Commenter's Region Flag";
 
+// v1.1
+
 // MARK: - Error Messages
 "Could Not Copy Music" = "Could Not Copy Music";
 "The video doesn't have music to download" = "This video has no music to download";
