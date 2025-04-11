@@ -96,8 +96,8 @@
 "Video Like Count" = "Показать количество лайков";
 "Video Upload Date" = "Показать дату загрузки";
 "User Post Count" = "Показать количество постов";
-"Follower" = "Включить фейковых подписчики";
-"Following" = "Включить фейковые подписки";
+"Follower" = "Подписчики";
+"Following" = "Подписки";
 "Fake Verified" = "Включить фейковую галочку";
 "Enable Fake Changes" = "Включить фейковые изменения";
 "Extended Bio" = "Расширить количество символов в описании профиля";
@@ -144,7 +144,7 @@
 "Live Actions" = "Действие LIVE";
 "Playback Speed" = "Скорость воспроизведения";
 "Select Action" = "Выберите действие";
-"Change the behavior of the Live button" = "Изменить поведение кнопки LIVE";
+"Change the behavior of the Live button" = "Выберите действие кнопки LIVE";
 "Selected Action" = "Выбрать действие";
 "Live Button Function Disabled" = "Кнопка LIVE отключена";
 "Please enable Live Button Function first" = "Сначала включите кнопку LIVE";
@@ -165,7 +165,7 @@
 
 // MARK: - Playback Speed
 "Enable Playback Speed" = "Изменить скорость видео";
-"Selected Speed" = "Выберать скорость";
+"Selected Speed" = "Выбрать скорость";
 "Playback Speed Settings" = "Настройки скорости";
 "Enable Persistent Playback Speed." = "Изменяет скорость видео";
 "Select Speed" = "Выберите скорость";
@@ -276,12 +276,12 @@
 // MARK: - Missing Strings
 "Features list" = "Список функций";
 "Not Selected" = "Не выбрано";
-"Creator Profile Pull" = "Профиль создателя Потяни";
+"Creator Profile Pull" = "Включить свайп для быстрого доступа";
 "OK" = "OK";
 "Disable Left & Right Swipe" = "Отключите пролистывание влево и вправо";
 "Pull To Camera" = "Потяните к камере";
 "Regions" = "Regions";
-"Full Region Mode" = "Режим полного региона";
+"Full Region Mode" = "Режим принудитьного региона";
 "Add Folders To Inbox" = "Добавить папки во входящие";
 
 // Additional missing strings
@@ -318,11 +318,11 @@
 "Disable" = "Отключить";
 
 // MARK: - Missing Feature Descriptions
-"FEATURE_CREATOR_PROFILE_PULL" = "Просмотр профилей создателей при перемещении вниз";
+"FEATURE_CREATOR_PROFILE_PULL" = "Включает свайп для доступа к быстрым настройках";
 "FEATURE_DISABLE_SWIPE" = "Отключить пролистывание влево и вправо в ленте";
 "FEATURE_PULL_TO_CAMERA" = "Включить функцию притягивания к камере";
 "FEATURE_ADD_FOLDERS" = "Добавить организацию папок для входящих сообщений";
-"FEATURE_FULL_REGION_MODE" = "Включать только в том случае, если первый вариант не работает!!!";
+"FEATURE_FULL_REGION_MODE" = "Показывает контент из выбранного выше региона";
 
 // Additional feature descriptions
 "FEATURE_ANONYMOUS_SEEN_DESC" = "Дает возможность читать чат без уведомления собеседника";
@@ -334,9 +334,9 @@
 "FEATURE_ADD_FOLDERS_DESC" = "Организуйте сообщения в папке «Входящие» в пользовательские папки для более удобного управления";
 
 // MARK: - Credits View
-"Credits" = "Благодарность";
+"Credits" = "О модификации";
 "Special Thanks to" = "Особая благодарность";
-"Community" = "Сообщество";
+"Community" = "Обратная связь";
 "Main Developer, Owner" = "Главный разработчик, владелец";
 "Co-Owner" = "Совладелец";
 "DRM Developer" = "Разработчик DRM";
@@ -349,4 +349,21 @@
 "Buy Me a Coffee" = "Угостите меня кофе";
 "Support the development" = "Поддержать разработку";
 "X" = "X";
-"Support" = "Поддерживать";
+
+// MARK: - Configuration Management
+"About" = "Поддержка и справка";
+"Configuration" = "Настройки";
+"Import Configuration" = "Восстановление настроек";
+"Export Configuration" = "Резервная копия настроек";
+"Reset All Settings" = "Сброс настроек";
+"Import settings from a file" = "Восстанавливает настройки из файла";
+"Export settings to a file" = "Создает файл с резервной копией настроек";
+"Reset all settings to default values" = "Сбрасывает все настройки до значений по умолчанию";
+"Вы уверены, что хотите сбросить все настройки до значений по умолчанию? Пути назад нет» = «Вы уверены, что хотите сбросить все настройки до значений по умолчанию? Пути назад нет";
+"All settings have been reset to default values." = "Все настройки были сброшены до значений по умолчанию";
+"Configuration imported successfully." = "Настройки успешно импортированы";
+"File selection was cancelled." = "Выбор файла был отменен";
+"Cancelled" = "Отменена";
+
+// MARK: - Features View
+"SUPPORT"="Донат";

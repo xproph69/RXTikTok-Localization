@@ -348,3 +348,16 @@
 "Support the development" = "Support the development";
 "X" = "X";
 "Support" = "Support";
+// MARK: - Configuration
+"About" = "About";
+"Configuration" = "Configuration";
+"Import Configuration" = "Import Configuration";
+"Export Configuration" = "Export Configuration";
+"Reset All Settings" = "Reset All Settings";
+"Import settings from a file" = "Import settings from a file";
+"Export settings to a file" = "Export settings to a file";
+"Reset all settings to default values" = "Reset all settings to default values";
+"All settings have been reset to default values." = "All settings have been reset to default values.";
+"Configuration imported successfully." = "Configuration imported successfully.";
+"File selection was cancelled." = "File selection was cancelled.";
+"Cancelled" = "Cancelled";
