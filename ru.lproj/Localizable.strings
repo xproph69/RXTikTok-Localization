@@ -11,7 +11,7 @@
 "No" = "Нет";
 "ON" = "ВКЛ";
 "OFF" = "ВЫКЛ";
-"Cancel" = "Отменить";
+"Cancel" = "Назад";
 "Confirm" = "Подтвердить";
 "Actions" = "Действия";
 "Default" = "По умолчанию";
@@ -38,31 +38,31 @@
 "Hide dangerous-action Warning" = "Скрыть предупреждения";
 
 // MARK: - Download Features
-"Downloads Menu" = "Меню загрузок";
-"Download Video" = "Скачать";
-"Download HD Video" = "Скачать (HD)";
+"Downloads Menu" = "Хочу скачать";
+"Download Video" = "Скачать видео";
+"Download HD Video" = "Скачать видео (HD)";
 "Download Music" = "Скачать музыку";
-"Download Photo" = "Скачать картинки";
-"Download All Photos" = "Скачать все картинки";
-"Download Photos Menu" = "Меню загрузки картинок";
+"Download Photo" = "Скачать фото";
+"Download All Photos" = "Скачать все фото";
+"Download Photos Menu" = "Хочу скачать";
 "Downloading" = "Скачиваем";
 "Download Button" = "Показать кнопку загрузки";
 
 // MARK: - Copy Features
-"Copy Menu" = "Меню копирования";
-"Copy Music Link" = "Копировать ссылку на музыку";
-"Copy Description" = "Копировать описание поста";
+"Copy Menu" = "Хочу скопировать";
+"Copy Music Link" = "Скопировать ссылку на музыку";
+"Copy Description" = "Скопировать описание поста";
 "Post Info" = "Информация о публикации";
-"Copy Video link" = "Копировать ссылку на пост";
-"Copy bio" = "Копировать био";
+"Copy Video link" = "Скопировать ссылку на пост";
+"Copy bio" = "Скопировать био";
 "Music Link Copied" = "Ссылка на музыку скопирована";
 "Video Link Copied" = "Ссылка на видео скопирована";
 "Description Link Copied" = "Ссылка на описание скопирована";
-"Stats Menu" = "Меню статистики";
-"Video Info" = "Информация о видео";
+"Stats Menu" = "Метаданные";
+"Video Info" = "Посмотреть метаданные";
 
 // MARK: - Confirm Settings
-"Confirm Settings" = "Настройки подтверждения действий";
+"Confirm Settings" = "Настройки подтверждений";
 "Confirmation Settings" = "Настройки действий";
 "Like Confirmation" = "Подтвердить лайк";
 "Like Comment Confirmation" = "Подтвердить лайк комментария";
@@ -133,8 +133,8 @@
 "Tab Bar Settings" = "Настройки вкладок";
 "Tab Bar Configurations" = "Настройки вкладок";
 "Hide Plus Button" = "Скрыть кнопку «+»";
-"Hide Friends Badge" = "Скрыть значок друзей";
-"Hide Inbox Badge" = "Скрыть значок входящих";
+"Hide Friends Badge" = "Скрыть счетчик (Друзья)";
+"Hide Inbox Badge" = "Скрыть счетчик (Входящие)";
 "Changes will take effect after restarting the app" = "Изменения вступят в силу после перезапуска приложения";
 
 // MARK: - Live Button Settings
@@ -225,8 +225,8 @@
 "FEATURE_FOLLOWING_COUNT" = "Введите число";
 "FEATURE_FAKE_VERIFIED" = "Показывает фейковый значок верификации";
 "FEATURE_HIDE_PLUS_BTN" = "Скрывает кнопку +";
-"FEATURE_HIDE_FRIENDS_BADGE" = "Скрывает значок уведомлений о друзьях";
-"FEATURE_HIDE_INBOX_BADGE" = "Скрывает значок уведомлений о входящих";
+"FEATURE_HIDE_FRIENDS_BADGE" = "Скрывает значок уведомлений (Друзья)";
+"FEATURE_HIDE_INBOX_BADGE" = "Скрывает значок уведомлений (Входящие)";
 "FEATURE_EXTENDED_BIO" = "Увеличивает лимит символов в биографии";
 "FEATURE_EXTENDED_COMMENTS" = "Увеличивает лимит символов в комментариях";
 "FEATURE_UPLOAD_HD" = "Включает кнопку выгрузки видео в HD";
@@ -278,11 +278,11 @@
 "Not Selected" = "Не выбрано";
 "Creator Profile Pull" = "Включить свайп для быстрого доступа";
 "OK" = "OK";
-"Disable Left & Right Swipe" = "Отключите пролистывание влево и вправо";
-"Pull To Camera" = "Потяните к камере";
+"Disable Left & Right Swipe" = "Отключить свайп влево/вправо в ленте";
+"Pull To Camera" = "Включить свайп для открытия камеры";
 "Regions" = "Regions";
-"Full Region Mode" = "Режим принудитьного региона";
-"Add Folders To Inbox" = "Добавить папки во входящие";
+"Full Region Mode" = "Режим принудительного региона";
+"Add Folders To Inbox" = "Добавить папки в личке";
 
 // Additional missing strings
 "Settings" = "Настройки";
@@ -299,6 +299,7 @@
 "Loading" = "Загрузка";
 "Search" = "Поиск";
 "Apply" = "Применить";
+"Saved!" = "Сохранено"
 "Reset" = "Сбросить";
 "Video saved successfully" = "Видео успешно сохранено";
 "Photo saved successfully" = "Фотография успешно сохранена";
@@ -319,9 +320,9 @@
 
 // MARK: - Missing Feature Descriptions
 "FEATURE_CREATOR_PROFILE_PULL" = "Включает свайп для доступа к быстрым настройках";
-"FEATURE_DISABLE_SWIPE" = "Отключить пролистывание влево и вправо в ленте";
-"FEATURE_PULL_TO_CAMERA" = "Включить функцию притягивания к камере";
-"FEATURE_ADD_FOLDERS" = "Добавить организацию папок для входящих сообщений";
+"FEATURE_DISABLE_SWIPE" = "Отключает влево/вправо между вкладками";
+"FEATURE_PULL_TO_CAMERA" = "Включает свайп для доступа к камере";
+"FEATURE_ADD_FOLDERS" = "Добавляет папки для личных сообщений";
 "FEATURE_FULL_REGION_MODE" = "Показывает контент из выбранного выше региона";
 
 // Additional feature descriptions
@@ -344,8 +345,8 @@
 "UI Designer" = "Дизайнер";
 "Telegram Channel" = "Telegram канал";
 "Telegram Discussion Group" = "Чат в Telegram";
-"Get the latest updates and news" = "Получайте последние обновления и новости";
-"Join the community discussion" = "Присоединяйтесь к чату";
+"Get the latest updates and news" = "Тут будут обновления";
+"Join the community discussion" = "По любым вопросам";
 "Buy Me a Coffee" = "Угостите меня кофе";
 "Support the development" = "Поддержать разработку";
 "X" = "X";
@@ -357,13 +358,13 @@
 "Export Configuration" = "Резервная копия настроек";
 "Reset All Settings" = "Сброс настроек";
 "Import settings from a file" = "Восстанавливает настройки из файла";
-"Export settings to a file" = "Создает файл с резервной копией настроек";
-"Reset all settings to default values" = "Сбрасывает все настройки до значений по умолчанию";
-"Вы уверены, что хотите сбросить все настройки до значений по умолчанию? Пути назад нет» = «Вы уверены, что хотите сбросить все настройки до значений по умолчанию? Пути назад нет";
+"Export settings to a file" = "Создает файл настроек";
+"Reset all settings to default values" = "Сбрасывает все настройки";
+"Are you sure you want to reset all settings to default values? This action cannot be undone." = "Вы уверены, что хотите сбросить все настройки до значений по умолчанию? Пути назад не будет";
 "All settings have been reset to default values." = "Все настройки были сброшены до значений по умолчанию";
 "Configuration imported successfully." = "Настройки успешно импортированы";
 "File selection was cancelled." = "Выбор файла был отменен";
-"Cancelled" = "Отменена";
+"Cancelled" = "Отмена";
 
 // MARK: - Features View
-"SUPPORT"="Донат";
+"Support"="Донат";
