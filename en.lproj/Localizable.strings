@@ -364,3 +364,34 @@
 "Cancelled" = "Cancelled";
 
 "Select App Language" = "Select App Language";
+
+
+// 1.3 
+"Erase All TikTok Data" = "Erase All TikTok Data";
+"Erase all TikTok data from the app  [Becareful!!!]" = "Erase all TikTok data from the app [Be careful!!!]";
+"Clear Keychain" = "Clear Keychain";
+"Are you sure you want to clear all data? This will remove:\n1- TikTok's data directory\n2-all keychains\n3- clears all NSUserDefaults\n \nNOTICE!\n YOU WILL LOSE YOUR DRAFTS AND ANYTHING SAVED LOCALLY." = "Are you sure you want to clear all data? This will remove:\n1- TikTok's data directory\n2- all keychains\n3- clears all NSUserDefaults\n\nNOTICE!\nYOU WILL LOSE YOUR DRAFTS AND ANYTHING SAVED LOCALLY.";
+"Clear" = "Clear";
+"Really Clear All Data?" = "Really Clear All Data?";
+"This is your final warning. This action is irreversible and will delete all local TikTok data, including drafts and settings. Are you absolutely sure?" = "This is your final warning. This action is irreversible and will delete all local TikTok data, including drafts and settings. Are you absolutely sure?";
+"Confirm Clear" = "Confirm Clear";
+"Data Cleared" = "Data Cleared";
+"All TikTok data has been cleared." = "All TikTok data has been cleared.";
+
+"Streak Info" = "Streak Info";
+"FEATURE_STREAK_INFO" = "Show streak information when tapping on streak fire";
+
+"Hide Tab Bar Labels" = "Hide Tab Bar Labels";
+"FEATURE_HIDE_TAB_BAR_LABELS" = "Hide labels in the tab bar for a cleaner look";
+
+"Adjust offline download limit" = "Adjust Offline Download Limit";
+"Adjust value between 50 and 2000" = "Adjust value between 50 and 2000";
+
+"Start TikTok in Following" = "Start TikTok in Following";
+"FEATURE_START_FYP_IN_FOLLOWING" = "Start TikTok in Following feed instead of For You feed";
+
+"Waiting for TikTok…" = "Waiting for TikTok…";
+"Extracting Media URL…" = "Extracting Media URL…";
+"Invalid download URL received." = "Invalid download URL received.";
+"Failed to fetch HD video URL. Please try again." = "Failed to fetch HD video URL. Please try again.";
+
