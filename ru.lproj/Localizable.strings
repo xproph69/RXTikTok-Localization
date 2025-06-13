@@ -370,3 +370,35 @@
 "Support"="Донат";
 
 "Select App Language" = "Выберите язык";
+
+// 1.3  
+"Erase All TikTok Data" = "Стереть все данные TikTok"; 
+"Erase all TikTok data from the app  [Becareful!!!]" = "Стереть все данные TikTok [Внимание!!!]"; 
+"Clear Keychain" = "Очистить данные Keychain"; 
+"Are you sure you want to clear all data? This will remove:\n1- TikTok's data directory\n2-all keychains\n3- clears all NSUserDefaults\n \nNOTICE!\n YOU WILL LOSE YOUR DRAFTS AND ANYTHING SAVED LOCALLY." = "Вы уверены что хотите очистить все данные? Это удалит:\n1- Директорию data TikTok'а\n2- Данные Keychain\n3- Очистка NSUserDefaults\n\nВНИМАНИЕ!\nВЫ ПОТЕРЯЕТЕ ВСЕ ЧЕРНОВИКИ И ВСЕ ЧТО СОХРАНЕНО ЛОКАЛЬНО."; 
+"Clear" = "Очистить"; 
+"Really Clear All Data?" = "Реально очистить все данные?"; 
+"This is your final warning. This action is irreversible and will delete all local TikTok data, including drafts and settings. Are you absolutely sure?" = "Это последние предупреждение. Это действие не обратимо и очистит локальные данные TikTok, включая черновики и настройки. Вы точно уверены?"; 
+"Confirm Clear" = "Подтвердить очистку"; 
+"Data Cleared" = "Данные очищены"; 
+"All TikTok data has been cleared." = "Все данные TikTok были очищены."; 
+ 
+"Streak Info" = "Информация о серии"; 
+"FEATURE_STREAK_INFO" = "Показать информацию о серии, при касание на огонек серии"; 
+ 
+"Hide Tab Bar Labels" = "Спрятать название вкладок"; 
+"FEATURE_HIDE_TAB_BAR_LABELS" = "Спрятать название вкладок для чистого вида"; 
+ 
+"Adjust offline download limit" = "Изменить лимит загрузки видео оффлайн"; 
+"Adjust value between 50 and 2000" = "Выберите число от 50 до 2000"; 
+ 
+"Start TikTok in Following" = "Запускать TikTok на ленте Подписки"; 
+"FEATURE_START_FYP_IN_FOLLOWING" = "Запускать TikTok на ленте Подписки вместо ленты Рекомендации"; 
+ 
+"Waiting for TikTok…" = "Ожидание TikTok…"; 
+"Extracting Media URL…" = "Вытаскивание URL Медиа…"; 
+"Invalid download URL received." = "Получен неверный URL загрузки."; 
+"Failed to fetch HD video URL. Please try again." = "Не удалось получить URL этого HD видео. Повторите попытку позже.";
+
+"Enable Egypt Stickers" = "Включить стикеры Египта";
+"BETA!" = "БЕТА!";
