@@ -188,7 +188,7 @@
 "FEATURE_HIDE_ADS" = "隐藏信息流中的广告";
 "FEATURE_DOWNLOAD_BUTTON" = "为视频和动态添加下载按钮";
 "FEATURE_SHARE_SHEET" = "下载后自动打开分享菜单";
-"FEATURE_REMOVE_WATERMARK" = "去除下载视频的水印（抖音标识和用户名）";
+"FEATURE_REMOVE_WATERMARK" = "去除下载视频的水印（TikTok 标识和用户名）";
 "FEATURE_UI_BUTTON" = "显示或隐藏界面按钮";
 "FEATURE_STOP_PLAYBACK" = "视频结束时停止播放";
 "FEATURE_AUTO_PLAY" = "开启自动播放";
@@ -199,7 +199,7 @@
 "FEATURE_SHOW_USERNAMES" = "显示用户名而非昵称";
 "FEATURE_DISABLE_SENSITIVE" = "关闭敏感内容提示";
 "FEATURE_ADD_TRANSLATION" = "添加评论翻译按钮";
-"FEATURE_DISABLE_WARNINGS" = "关闭抖音警告提示";
+"FEATURE_DISABLE_WARNINGS" = "关闭 TikTok 警告提示";
 "FEATURE_DISABLE_LIVE" = "隐藏直播内容";
 "FEATURE_SKIP_RECOMMENDED" = "关闭推荐提示";
 "FEATURE_UPLOAD_REGION" = "显示视频来源地区";
@@ -314,7 +314,7 @@
 "Disable" = "禁用";
 
 // MARK: - Missing Feature Descriptions
-"FEATURE_CREATOR_PROFILE_PULL" = "下拉时查看创作者主页";
+"FEATURE_CREATOR_PROFILE_PULL" = "下拉查看创作者主页";
 "FEATURE_DISABLE_SWIPE" = "禁用首页中的左右滑动";
 "FEATURE_PULL_TO_CAMERA" = "启用下拉打开相机功能";
 "FEATURE_ADD_FOLDERS" = "为收件箱消息添加文件夹分类";
@@ -325,7 +325,7 @@
 "FEATURE_SHOW_ALL_TABS_DESC" = "显示所有隐藏的设置选项，包括实验性功能";
 "FEATURE_PROFILE_SAVE_DESC" = "一键保存个人资料信息到剪贴板";
 "FEATURE_PROFILE_COPY_DESC" = "复制用户名、简介等个人资料信息";
-"FEATURE_APP_LOCK_DESC" = "使用密码或生物识别保护你的抖音应用";
+"FEATURE_APP_LOCK_DESC" = "使用密码或生物识别保护你的 TikTok 应用";
 "FEATURE_REGIONS_DESC" = "通过更改虚拟位置访问特定地区的内容";
 "FEATURE_ADD_FOLDERS_DESC" = "将收件箱消息整理到自定义文件夹中，便于管理";
 
@@ -346,3 +346,53 @@
 "Support the development" = "支持开发";
 "X" = "X";
 "Support" = "支持";
+
+// MARK: - Configuration
+"About" = "关于";
+"Configuration" = "配置";
+"Import Configuration" = "导入配置";
+"Export Configuration" = "导出配置";
+"Reset All Settings" = "重置所有设置";
+"Import settings from a file" = "从文件导入设置";
+"Export settings to a file" = "导出设置到文件";
+"Reset all settings to default values" = "将所有设置重置为默认值";
+"All settings have been reset to default values." = "所有设置已重置为默认值。";
+"Configuration imported successfully." = "配置导入成功。";
+"File selection was cancelled." = "文件选择已取消。";
+"Cancelled" = "已取消";
+
+"Select App Language" = "选择应用语言";
+
+// 1.3 修正
+"Erase All TikTok Data" = "清除所有 TikTok 数据";
+"Erase all TikTok data from the app  [Becareful!!!]" = "清除应用中的所有 TikTok 数据 [请谨慎操作!!!]";
+"Are you sure you want to clear all data? This will remove:\n1- TikTok's data directory\n2-all keychains\n3- clears all NSUserDefaults\n \nNOTICE!\n YOU WILL LOSE YOUR DRAFTS AND ANYTHING SAVED LOCALLY." = "确定要清除所有数据吗？这将删除：\n1- TikTok 的数据目录\n2- 所有钥匙串\n3- 清除所有 NSUserDefaults\n\n注意！\n您将失去所有草稿和本地保存的内容。";
+"This is your final warning. This action is irreversible and will delete all local TikTok data, including drafts and settings. Are you absolutely sure?" = "这是最后的警告。此操作不可逆，将删除所有本地 TikTok 数据，包括草稿和设置。您确定要继续吗？";
+"All TikTok data has been cleared." = "所有 TikTok 数据已清除。";
+
+"Streak Info" = "连续签到信息";
+"FEATURE_STREAK_INFO" = "点击签到火焰图标显示签到信息";
+
+"Hide Tab Bar Labels" = "隐藏底栏标签";
+"FEATURE_HIDE_TAB_BAR_LABELS" = "隐藏底部导航栏的标签文字，使界面更简洁";
+
+"Adjust offline download limit" = "调整离线下载限制";
+"Adjust value between 50 and 2000" = "调整数值范围在 50 到 2000 之间";
+
+"Start TikTok in Following" = "启动时进入关注页";
+"FEATURE_START_FYP_IN_FOLLOWING" = "启动 TikTok 时默认进入关注页面而不是推荐页";
+
+"Waiting for TikTok…" = "等待 TikTok…";
+"Extracting Media URL…" = "正在提取媒体链接…";
+"Invalid download URL received." = "收到无效的下载链接。";
+"Failed to fetch HD video URL. Please try again." = "获取高清视频链接失败。请重试。";
+
+"Enable Egypt Stickers" = "启用埃及贴纸";
+
+"Saved!" = "已保存！";
+
+"Clear Keychain" = "清除钥匙串";
+"Clear" = "清除";
+"Really Clear All Data?" = "确定要清除所有数据吗？";
+"Confirm Clear" = "确认清除";
+"Data Cleared" = "数据已清除";
