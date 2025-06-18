@@ -1,0 +1,398 @@
+/* Localizable.strings */
+
+// MARK: - Core UI Elements
+"RXTikTok, Hi" = "RXTikTok, Szia";
+"RXTikTok Settings" = "RXTikTok beállítások";
+"Welcome" = "Üdvözlünk";
+"Tap to Join the Telegram" = "Csatlakozás a Telegram csatornához";
+
+// MARK: - Global Actions
+"Yes" = "Igen";
+"No" = "Nem";
+"ON" = "Be";
+"OFF" = "Ki";
+"Cancel" = "Mégse";
+"Confirm" = "Megerősítés";
+"Actions" = "Műveletek";
+"Default" = "Alapértelmezett";
+"Modern" = "Modern";
+"Compact" = "Kompakt";
+"Backgrounding ✌️" = "Fut a háttérben ✌️";
+"Are you sure?" = "Biztos benne?";
+
+// MARK: - Navigation
+"Feed" = "Hírfolyam";
+"Profile" = "Profil";
+"Other" = "Egyéb";
+"Region" = "Régió";
+"Developer" = "Fejlesztő";
+"Design Options" = "Dizájn opciók";
+"Other Settings" = "Egyéb beállítások";
+"Auto Clear History" = "Automatikus előzmények törlése";
+"Enable Embeded Links" = "Beágyazott linkek engedélyezése";
+"Language 🌎" = "Nyelv 🌎";
+"Show All Settings Tabs" = "Minden beállítás fül megjelenítése";
+"Show Video Upload Timestamp" = "Videó feltöltési időbélyeg megjelenítése";
+"Remove Pendant View" = "Függő nézet eltávolítása";
+"Hide Commission Posts" = "Jutalékos bejegyzések elrejtése";
+"Hide dangerous-action Warning" = "Veszélyes műveletek figyelmeztetéseinek elrejtése";
+
+// MARK: - Download Features
+"Downloads Menu" = "Letöltések menü";
+"Download Video" = "Videó letöltése";
+"Download HD Video" = "HD videó letöltése";
+"Download Music" = "Zene letöltése";
+"Download Photo" = "Fotó letöltése";
+"Download All Photos" = "Összes fotó letöltése";
+"Download Photos Menu" = "Fotók letöltése menü";
+"Downloading" = "Letöltés folyamatban";
+"Download Button" = "Letöltés gomb";
+
+// MARK: - Copy Features
+"Copy Menu" = "Másolás menü";
+"Copy Music Link" = "Zene link másolása";
+"Copy Description" = "Leírás másolása";
+"Post Info" = "Bejegyzés információ";
+"Copy Video link" = "Videó link másolása";
+"Copy bio" = "Bio másolása";
+"Music Link Copied" = "Zene link másolva";
+"Video Link Copied" = "Videó link másolva";
+"Description Link Copied" = "Leírás link másolva";
+"Stats Menu" = "Statisztikák menü";
+"Video Info" = "Videó információ";
+
+// MARK: - Confirm Settings
+"Confirm Settings" = "Megerősítési beállítások";
+"Confirmation Settings" = "Megerősítési beállítások";
+"Like Confirmation" = "Kedvelés megerősítése";
+"Like Comment Confirmation" = "Hozzászólás kedvelésének megerősítése";
+"Dislike Comment Confirmation" = "Hozzászólás nemtetszésének megerősítése";
+"Follow Confirmation" = "Követés megerősítése";
+
+// MARK: - Feed Settings
+"Feed Settings" = "Hírfolyam beállítások";
+"Hide Ads" = "Reklámok elrejtése";
+"Share Sheet" = "Megosztás";
+"Remove Watermark" = "Vízjel eltávolítása";
+"Show/Hide UI Button" = "Felhasználói felület gomb megjelenítése/elrejtése";
+"Stop Playback" = "Lejátszás leállítása";
+"Auto Play Next Video" = "Következő videó automatikus lejátszása";
+"Show Progress Bar" = "Folyamatjelző megjelenítése";
+"Transparent Comments" = "Átlátszó hozzászólások";
+"Show Usernames" = "Felhasználónevek megjelenítése";
+"Disable Sensitive Content" = "Érzékeny tartalom letiltása";
+"Disable Warnings" = "Figyelmeztetések letiltása";
+"Disable Live Streaming" = "Élő közvetítések letiltása";
+"Skip Recommendations" = "Ajánlások kihagyása";
+"Upload Region" = "Feltöltési régió";
+"Hide Top Feed items" = "Felső hírfolyam elemek elrejtése";
+"Anonymous Seen" = "Névtelen megtekintés";
+"Hide Play/Pause Button" = "Lejátszás/szünet gomb elrejtése";
+
+// MARK: - Profile Settings
+"Profile Settings" = "Profil beállítások";
+"Profile Save" = "Profil mentése";
+"Profile Copy" = "Profil másolása";
+"Video Like Count" = "Videó kedvelések száma";
+"Video Upload Date" = "Videó feltöltési dátuma";
+"User Post Count" = "Felhasználó bejegyzéseinek száma";
+"Follower" = "Követők";
+"Following" = "Követettek";
+"Fake Verified" = "Hamis hitelesítés";
+"Enable Fake Changes" = "Hamis változtatások engedélyezése";
+"Extended Bio" = "Kiterjesztett bemutatkozás";
+"Extended Comments" = "Kiterjesztett hozzászólások";
+"Upload HD" = "HD feltöltés";
+"App Lock" = "Alkalmazás zár";
+"Enable Flex" = "Flex engedélyezése";
+"Enable Oled Keyboard" = "OLED billentyűzet engedélyezése";
+"Post Stats" = "Bejegyzés statisztikák";
+"Enable Text To Reposts" = "Szöveg hozzáadása újraosztásokhoz";
+"Disable Survey Popups" = "Felmérő felugró ablakok letiltása";
+
+// MARK: - Comment Settings
+"Comment Settings" = "Hozzászólás beállítások";
+"Comment Design" = "Hozzászólás dizájn";
+"Select Design" = "Dizájn kiválasztása";
+"Disable Comment Tooltip" = "Hozzászólás buboréksúgó letiltása";
+"Add Comment as Post" = "Hozzászólás hozzáadása bejegyzésként";
+"Add Comment as Story" = "Hozzászólás hozzáadása történetként";
+"Mass Unfold Comment Replies" = "Összes válasz kinyitása";
+"Auto Unfold Comment Texts" = "Szövegek automatikus kinyitása";
+"Multi Emoji Comment Bar" = "Többszörös emoji sáv";
+"Hide Emoji-Bar" = "Emoji sáv elrejtése";
+"Add Translation Button" = "Fordítás gomb hozzáadása";
+"Comment Cell Redesign" = "Hozzászólás cella újratervezése";
+"Enable Comment Photos" = "Hozzászólás fotók engedélyezése";
+"Enable Comment Stickers" = "Hozzászólás matrica engedélyezése";
+"Enable Comment Flags" = "Hozzászólás zászlók engedélyezése";
+"Enable Copy Without Username" = "Másolás engedélyezése felhasználónév nélkül";
+"Configure Advanced Comment Settings" = "Speciális hozzászólás beállítások konfigurálása";
+
+// MARK: - Tab Bar Settings
+"Tab Bar Settings" = "Alsó sáv beállítások";
+"Tab Bar Configurations" = "Alsó sáv konfigurációk";
+"Hide Plus Button" = "Plusz gomb elrejtése";
+"Hide Friends Badge" = "Barátok jelvény elrejtése";
+"Hide Inbox Badge" = "Bejövő üzenetek jelvény elrejtése";
+"Changes will take effect after restarting the app" = "A változások az alkalmazás újraindítása után lépnek életbe";
+
+// MARK: - Live Button Settings
+"Live Button Settings" = "Élő gomb beállítások";
+"Live Button Function" = "Élő gomb funkció";
+"Live Button Actions" = "Élő gomb műveletek";
+"Live Actions" = "Élő műveletek";
+"Playback Speed" = "Lejátszási sebesség";
+"Select Action" = "Művelet kiválasztása";
+"Change the behavior of the Live button" = "Az élő gomb viselkedésének megváltoztatása";
+"Selected Action" = "Kiválasztott művelet";
+"Live Button Function Disabled" = "Élő gomb funkció letiltva";
+"Please enable Live Button Function first" = "Először engedélyezni kell az élő gomb funkciót";
+"Change Action of Live Button" = "Élő gomb műveletének megváltoztatása";
+"Enable Live Button Function" = "Élő gomb funkció engedélyezése";
+
+// MARK: - Chat Settings
+"Chat Settings" = "Chat beállítások";
+"Enable Voice Messages" = "Hangüzenetek engedélyezése";
+"Enable Streaks" = "Sorozatok engedélyezése";
+"Hide Streak Pet" = "Sorozat háziállat elrejtése";
+"Disable Typing Indicator" = "Gépelés jelző letiltása";
+"Enable Pin Chat" = "Chat rögzítés engedélyezése";
+"Bypass Media Limit" = "Média korlát megkerülése";
+"Disable AI-Generated Replies" = "AI-generált válaszok letiltása";
+"Enable Small Emoji" = "Kis emoji engedélyezése";
+"Anonymous Seen" = "Névtelen megtekintés";
+
+// MARK: - Playback Speed
+"Enable Playback Speed" = "Lejátszási sebesség engedélyezése";
+"Selected Speed" = "Kiválasztott sebesség";
+"Playback Speed Settings" = "Lejátszási sebesség beállítások";
+"Enable Persistent Playback Speed." = "Állandó lejátszási sebesség engedélyezése.";
+"Select Speed" = "Sebesség kiválasztása";
+"Control video playback speed" = "Videó lejátszási sebesség vezérlése";
+"Playback Speed Disabled" = "Lejátszási sebesség letiltva";
+"Please enable Playback Speed first" = "Először engedélyezni kell a lejátszási sebességet";
+
+// MARK: - Region Settings
+"Region Settings" = "Régió beállítások";
+"Enable region changing to access content from different regions" = "Régióváltás engedélyezése különböző régiók tartalmának eléréséhez";
+"Enable Region Changing" = "Régióváltás engedélyezése";
+"Enable Region Changing Functionality" = "Régióváltás funkció engedélyezése";
+"Selected Region" = "Kiválasztott régió";
+"Region Changing Disabled" = "Régióváltás letiltva";
+"Please enable region changing first" = "Először engedélyezni kell a régióváltást";
+
+// MARK: - Feature Descriptions
+"FEATURE_ENABLE_COMMENT_FLAGS" = "FUNKCIÓ_HOZZÁSZÓLÁS_ZÁSZLÓK_ENGEDÉLYEZÉSE";
+"FEATURE_COPY_WITHOUT_USERNAME" = "FUNKCIÓ_MÁSOLÁS_FELHASZNÁLÓNÉV_NÉLKÜL";
+"FEATURE_HIDE_ADS" = "Reklámok elrejtése a hírfolyamból";
+"FEATURE_DOWNLOAD_BUTTON" = "Letöltés gomb engedélyezése bejegyzésekhez és történetekhez";
+"FEATURE_SHARE_SHEET" = "Megosztás menü megnyitása média letöltése után";
+"FEATURE_REMOVE_WATERMARK" = "Vízjel eltávolítása (animált TikTok logó és felhasználónév) a letöltött médiából";
+"FEATURE_UI_BUTTON" = "Felhasználói felület gomb megjelenítése vagy elrejtése";
+"FEATURE_STOP_PLAYBACK" = "Videó lejátszás leállítása amikor véget ér";
+"FEATURE_AUTO_PLAY" = "Automatikus videó görgetés engedélyezése";
+"FEATURE_PROGRESS_BAR" = "Időtartam sáv megjelenítése minden videó alatt";
+"FEATURE_TRANSPARENT_COMMENTS" = "Hozzászólások szekció átlátszóvá tétele";
+"FEATURE_DISABLE_SURVEY" = "Bosszantó felmérő kérdések letiltása a hírfolyamban";
+"FEATURE_HIDE_PLAY_PAUSE" = "Lejátszás/szünet nézet elrejtése a hírfolyamban";
+"FEATURE_SHOW_USERNAMES" = "Becenevek helyettesítése címkékkel";
+"FEATURE_DISABLE_SENSITIVE" = "Nem megfelelő tartalom figyelmeztetés elrejtése";
+"FEATURE_ADD_TRANSLATION" = "Fordítás gomb hozzáadása minden hozzászóláshoz";
+"FEATURE_DISABLE_WARNINGS" = "TikTok figyelmeztetések elrejtése";
+"FEATURE_DISABLE_LIVE" = "Élő közvetítések elrejtése a hírfolyamban";
+"FEATURE_SKIP_RECOMMENDED" = "Barát ajánlások stb. eltávolítása";
+"FEATURE_UPLOAD_REGION" = "Feltöltési régió zászló megjelenítése a felhasználónév mellett";
+"FEATURE_HIDE_TOP_ITEMS" = "Keresés gomb, ÉLŐ és egyebek elrejtése (Neked, Követettek, Bolt stb...)";
+"FEATURE_ANONYMOUS_SEEN" = "Chatek megtekintése anélkül, hogy a másik fél tudná";
+"FEATURE_SHOW_ALL_TABS" = "Összes rejtett beállítás fül megjelenítése [Béta!]";
+"FEATURE_PROFILE_SAVE" = "Profil információ mentése vágólapra";
+"FEATURE_EMBED_LINKS" = "Beágyazott linkek engedélyezése link másoláskor";
+"FEATURE_PROFILE_COPY" = "Profil információ másolása";
+"FEATURE_USER_POST_COUNT" = "Feltöltött videók számának megjelenítése";
+"FEATURE_LIKE_COUNT" = "Kedvelések számának megjelenítése az üzenetekben";
+"FEATURE_UPLOAD_DATE" = "Feltöltési dátum megjelenítése";
+"FEATURE_SHOW_VIDEO_TIMESTAMP" = "Videó feltöltési idő megjelenítése a FYP-ben";
+"FEATURE_HIDE_DANGEROUS_ACTION" = "Figyelmeztetések elrejtése sport videók alatt (UFC, boksz, stb...)";
+"FEATURE_REMOVE_PENDANT" = "Bal felső reklám nézet eltávolítása a fyp-ben";
+"FEATURE_CONFIRM_LIKE" = "Megerősítés megjelenítése videó kedveléséhez";
+"FEATURE_CONFIRM_COMMENT_LIKE" = "Megerősítés megjelenítése hozzászólás kedveléséhez";
+"FEATURE_CONFIRM_COMMENT_DISLIKE" = "Megerősítés megjelenítése hozzászólás nemtetszéséhez";
+"FEATURE_CONFIRM_FOLLOW" = "Megerősítés megjelenítése felhasználó követéséhez";
+"FEATURE_AUTO_CLEAR" = "Keresési előzmények automatikus törlése 60 másodpercenként";
+"FEATURE_FAKE_CHANGES" = "Profil adatok hamisításának engedélyezése";
+"FEATURE_FOLLOWER_COUNT" = "Hamis követők számának megadása";
+"FEATURE_FOLLOWING_COUNT" = "Hamis követettek számának megadása";
+"FEATURE_FAKE_VERIFIED" = "Hamis hitelesítési jelvény megjelenítése";
+"FEATURE_HIDE_PLUS_BTN" = "Kamera gomb elrejtése";
+"FEATURE_HIDE_FRIENDS_BADGE" = "Barát értesítési jelvény elrejtése";
+"FEATURE_HIDE_INBOX_BADGE" = "Bejövő üzenetek értesítési jelvény elrejtése";
+"FEATURE_EXTENDED_BIO" = "Bio karakter korlát kiterjesztése";
+"FEATURE_EXTENDED_COMMENTS" = "Hozzászólások karakter korlát kiterjesztése";
+"FEATURE_UPLOAD_HD" = "HD feltöltések engedélyezése";
+"FEATURE_APP_LOCK" = "TikTok zárolásának lehetősége jelszóval";
+"FEATURE_ENABLE_FLEX" = "Csak fejlesztőknek, NE NYÚLJON HOZZÁ, ha nem tudja mit csinál";
+"FEATURE_OLED_KEYBOARD" = "Csak sötét témával működik";
+"FEATURE_POST_STATS" = "Menü gomb megjelenítése a letöltés szekcióban a bejegyzés statisztikákhoz";
+"FEATURE_ENABLE_TEXT_TO_REPOSTS" = "Szöveg hozzáadásának engedélyezése az újraosztáshoz";
+"FEATURE_VOICE_MESSAGES" = "Hangüzenetek küldésének engedélyezése chatben";
+"FEATURE_ENABLE_STREAKS" = "Sorozatok engedélyezése barátokkal";
+"FEATURE_HIDE_STREAK_PET" = "Sorozat háziállat elrejtése";
+"FEATURE_DISABLE_TYPING" = "Gépelés jelző nem küldése chattelés közben";
+"FEATURE_PIN_CHATS" = "Kedvenc chatek rögzítése a tetejére";
+"FEATURE_BYPASS_MEDIA_LIMIT" = "Média korlátok megkerülése chatben (Alapértelmezett: 9 fotó, 1 perc videó)";
+"FEATURE_DISABLE_AI_REPLIES" = "AI-generált válaszok letiltása elküldött bejegyzésekhez";
+"FEATURE_SMALL_EMOJI" = "Kis emojik küldésének engedélyezése";
+"FEATURE_REMOVE_PENDANT" = "Bosszantó reklám nézet eltávolítása a képernyő bal felső sarkából (Csak egyes régiókban)";
+"FEATURE_HIDE_DANGEROUS_ACTION" = "Bosszantó figyelmeztetések elrejtése sport videók alatt";
+"FEATURE_SHOW_VIDEO_TIMESTAMP" = "Feltöltési idő megjelenítése a felhasználónév mellett a Fyp-ben";
+"FEATURE_HIDE_COMMISSION_POSTS" = "Olyan bejegyzések eltávolítása amelyek azt mondják 'Az alkotó jutalékot keres'";
+
+// Comment Settings Descriptions
+"ENABLE_COMMENT_PHOTO" = "Fotók hozzáadásának engedélyezése hozzászólásokhoz";
+"ENABLE_COMMENT_STICKERS" = "Matricák hozzáadásának engedélyezése hozzászólásokhoz";
+"FEATURE_DISABLE_COMMENT_TOOLTIP" = "Buboréksúgók letiltása hozzászólásokban";
+"FEATURE_ADD_TRANSLATION" = "Fordítás gomb hozzáadása hozzászólásokhoz";
+"FEATURE_ADD_COMMENT_POST" = "Hozzászólások bejegyzésként való közzétételének engedélyezése";
+"FEATURE_ADD_COMMENT_STORY" = "Hozzászólások történetként való közzétételének engedélyezése";
+"FEATURE_MASS_UNFOLD" = "Összes hozzászólás válasz kinyitása";
+"FEATURE_AUTO_UNFOLD" = "Hozzászólás szövegek automatikus kinyitása";
+"FEATURE_MULTI_EMOJI" = "Többszörös emoji hozzászólás sáv engedélyezése";
+"FEATURE_HIDE_EMOJI" = "Emoji sáv elrejtése hozzászólásokban";
+"FEATURE_COMMENT_REDESIGN" = "Újratervezett hozzászólás cellák engedélyezése";
+"FEATURE_COPY_WITHOUT_USERNAME" = "Hozzászólások másolása 'Felhasználónév: ' nélkül";
+"FEATURE_ENABLE_COMMENT_FLAGS" = "Hozzászóló régiójának zászlaja megjelenítése";
+
+// MARK: - Error Messages
+"Could Not Copy Music" = "Nem sikerült kimásolni a zenét";
+"The video doesn't have music to download" = "Ennek a videónak nincs letölthető zenéje";
+
+// MARK: - Developer
+"DEVELOPER_TELEGRAM" = "Csatlakozzon a Telegram csatornához a legfrissebb frissítésekért";
+"DEVELOPER_SUPPORT" = "Támogassa az RXTikTokot és kapjon hozzáférést a béta tesztelő csoporthoz";
+
+// MARK: - Missing Strings
+"Features list" = "Funkciók listája";
+"Not Selected" = "Nincs kiválasztva";
+"Creator Profile Pull" = "Alkotó profil húzás";
+"OK" = "OK";
+"Disable Left & Right Swipe" = "Bal és jobb húzás letiltása";
+"Pull To Camera" = "Húzás a kamerához";
+"Regions" = "Régiók";
+"Full Region Mode" = "Teljes régió mód";
+"Add Folders To Inbox" = "Mappák hozzáadása a bejövő üzenetekhez";
+
+// Additional missing strings
+"Settings" = "Beállítások";
+"Save" = "Mentés";
+"Delete" = "Törlés";
+"Edit" = "Szerkesztés";
+"Close" = "Bezárás";
+"Back" = "Vissza";
+"Next" = "Következő";
+"Done" = "Kész";
+"Error" = "Hiba";
+"Success" = "Sikeres";
+"Warning" = "Figyelmeztetés";
+"Loading" = "Betöltés";
+"Search" = "Keresés";
+"Apply" = "Alkalmaz";
+"Reset" = "Alaphelyzetbe állítás";
+"Saved!" = "Sikeres mentés!";
+"Video saved successfully" = "Videó sikeresen mentve";
+"Photo saved successfully" = "Fotó sikeresen mentve";
+"Failed to save media" = "Nem sikerült menteni a médiát";
+"No internet connection" = "Nincs internetkapcsolat";
+"Select All" = "Összes kijelölése";
+"Deselect All" = "Összes kijelölés törlése";
+"More Options" = "További opciók";
+"Share" = "Megosztás";
+"Copy Link" = "Link másolása";
+"Report" = "Jelentés";
+"Block" = "Letiltás";
+"Unfollow" = "Követés megszüntetése";
+"Hide" = "Elrejtés";
+"Show" = "Megjelenítés";
+"Enable" = "Engedélyezés";
+"Disable" = "Letiltás";
+
+// MARK: - Missing Feature Descriptions
+"FEATURE_CREATOR_PROFILE_PULL" = "Alkotó profilok megtekintése lehúzáskor";
+"FEATURE_DISABLE_SWIPE" = "Balra és jobbra húzás letiltása a hírfolyamban";
+"FEATURE_PULL_TO_CAMERA" = "Húzás a kamerához funkció engedélyezése";
+"FEATURE_ADD_FOLDERS" = "Mappa szervezés hozzáadása a bejövő üzenetekhez";
+"FEATURE_FULL_REGION_MODE" = "Csak akkor engedélyezze, ha az első opció nem működik!!";
+
+// Additional feature descriptions
+"FEATURE_ANONYMOUS_SEEN_DESC" = "Chatek megtekintése anélkül, hogy olvasási visszaigazolást küldenénk a feladónak";
+"FEATURE_SHOW_ALL_TABS_DESC" = "Minden rejtett beállítás fül megjelenítése, beleértve a kísérleti funkciókat is";
+"FEATURE_PROFILE_SAVE_DESC" = "Profil információ mentése a vágólapra egy koppintással";
+"FEATURE_PROFILE_COPY_DESC" = "Profil részletek másolása, beleértve a felhasználónevet, bemutatkozást és egyéb nyilvános információkat";
+"FEATURE_APP_LOCK_DESC" = "TikTok alkalmazás biztonságossá tétele jelszóval vagy biometrikus hitelesítéssel";
+"FEATURE_REGIONS_DESC" = "Régió-specifikus tartalom elérése virtuális helyzet megváltoztatásával";
+"FEATURE_ADD_FOLDERS_DESC" = "Bejövő üzenetek rendszerezése egyéni mappákba a jobb kezelés érdekében";
+
+// MARK: - Credits View
+"Credits" = "Közreműködők";
+"Special Thanks to" = "Különleges köszönet";
+"Community" = "Közösség";
+"Main Developer, Owner" = "Fő fejlesztő, tulajdonos";
+"Co-Owner" = "Társtulajdonos";
+"DRM Developer" = "DRM fejlesztő";
+"Contributor" = "Közreműködő";
+"UI Designer" = "Felhasználói felület tervező";
+"Telegram Channel" = "Telegram csatorna";
+"Telegram Discussion Group" = "Telegram beszélgetőcsoport";
+"Get the latest updates and news" = "Legfrissebb hírek és újdonságok";
+"Join the community discussion" = "Közösségi beszélgetés";
+"Buy Me a Coffee" = "Vegyél nekem egy kávét";
+"Support the development" = "Támogassa a fejlesztést";
+"X" = "X";
+"Support" = "Támogatás";
+// MARK: - Configuration
+"About" = "Névjegy";
+"Configuration" = "Konfiguráció";
+"Import Configuration" = "Konfiguráció importálása";
+"Export Configuration" = "Konfiguráció exportálása";
+"Reset All Settings" = "Minden beállítás visszaállítása";
+"Import settings from a file" = "Beállítások importálása fájlból";
+"Export settings to a file" = "Beállítások exportálása fájlba";
+"Reset all settings to default values" = "Minden beállítás visszaállítása az alapértelmezett értékekre";
+"All settings have been reset to default values." = "Minden beállítás visszaállítva az alapértelmezett értékekre.";
+"Configuration imported successfully." = "Konfiguráció sikeresen importálva.";
+"File selection was cancelled." = "A fájl kiválasztása megszakítva.";
+"Cancelled" = "Megszakítva";
+
+"Select App Language" = "Alkalmazás nyelvének kiválasztása";
+
+
+// 1.3 
+"Erase All TikTok Data" = "Összes TikTok adat törlése";
+"Erase all TikTok data from the app  [Becareful!!!]" = "Összes TikTok adat törlése az alkalmazásból [Legyél óvatos!]";
+"Clear Keychain" = "Kulcstartó törlése";
+"Are you sure you want to clear all data? This will remove:\n1- TikTok's data directory\n2-all keychains\n3- clears all NSUserDefaults\n \nNOTICE!\n YOU WILL LOSE YOUR DRAFTS AND ANYTHING SAVED LOCALLY." = "Biztos, hogy törölni akarod az összes adatot? Ez el fogja távolítani:\n1- TikTok adatkönyvtár\n2- összes kulcstartó\n3- minden NSUserDefaults törlése\n\nFIGYELEM!\nEL FOGJA VESZÍTENI A PISZKOZATAIT ÉS MINDEN HELYILEG MENTETT ADATOT.";
+"Clear" = "Törlés";
+"Really Clear All Data?" = "Tényleg törli az összes adatot?";
+"This is your final warning. This action is irreversible and will delete all local TikTok data, including drafts and settings. Are you absolutely sure?" = "Ez az utolsó figyelmeztetése. Ez a művelet visszafordíthatatlan és törölni fogja az összes helyi TikTok adatot, beleértve a piszkozatokat és beállításokat. Teljesen biztos benne?";
+"Confirm Clear" = "Törlés megerősítése";
+"Data Cleared" = "Adatok törölve";
+"All TikTok data has been cleared." = "Minden TikTok adat törölve lett.";
+
+"Streak Info" = "Sorozat információ";
+"FEATURE_STREAK_INFO" = "Sorozat információ megjelenítése a sorozat tűzre koppintáskor";
+
+"Hide Tab Bar Labels" = "Fül sáv címkék elrejtése";
+"FEATURE_HIDE_TAB_BAR_LABELS" = "Címkék elrejtése a fül sávban a tisztább megjelenésért";
+
+"Adjust offline download limit" = "Offline letöltési korlát beállítása";
+"Adjust value between 50 and 2000" = "Érték beállítása 50 és 2000 között";
+
+"Start TikTok in Following" = "TikTok indítása a Követettek oldalon";
+"FEATURE_START_FYP_IN_FOLLOWING" = "TikTok indítása a Követettek hírfolyamban a Neked hírfolyam helyett";
+
+"Waiting for TikTok…" = "Várakozás a TikTokra…";
+"Extracting Media URL…" = "Média URL kinyerése…";
+"Invalid download URL received." = "Érvénytelen letöltési URL érkezett.";
+"Failed to fetch HD video URL. Please try again." = "Nem sikerült lekérni a HD videó URL-t. Kérjük, próbálja újra.";
+
+"Enable Egypt Stickers" = "Egyiptomi matricák engedélyezése";
