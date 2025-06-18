@@ -7,7 +7,7 @@
 - Translate the strings you just added
 - Commit & Create a pull request
 
-#### THHINGS NOT TO DO
+#### THINGS NOT TO DO
 - Rename the files to something else
 - Break files syntax
-- Remove any strings or modify the any key (in the key value pair)
+- Remove any strings or modify any key (in the key value pair)
